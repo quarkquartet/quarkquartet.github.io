@@ -1,92 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://quarkquartet.github.io/about/</loc>
-    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/posts/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/series/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/posts/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/posts/more-rich-content/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/posts/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/posts/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/tags/development/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/categories/development/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/posts/hugo-coder-wiki/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/tags/hugo/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/tags/themes/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quarkquartet.github.io/authors/</loc>
-  </url><url>
-    <loc>https://quarkquartet.github.io/contact/</loc>
-  </url><url>
-    <loc>https://quarkquartet.github.io/projects/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://quarkquartet.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://quarkquartet.github.io/zh/sitemap.xml</loc>
+    
+      <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
