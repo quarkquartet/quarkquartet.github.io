@@ -224,15 +224,11 @@
       href="https://quarkquartet.github.io/en/admin/"
     /></url>
   <url>
-    <loc>https://quarkquartet.github.io/en/tag/deep-learning/</loc><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://quarkquartet.github.io/zh/tag/deep-learning/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://quarkquartet.github.io/en/tag/deep-learning/"
-    /></url>
+    <loc>https://quarkquartet.github.io/en/tag/axiogenesis/</loc></url>
+  <url>
+    <loc>https://quarkquartet.github.io/en/tag/baryogenesis/</loc></url>
+  <url>
+    <loc>https://quarkquartet.github.io/en/tag/electroweak-phase-transition/</loc></url>
   <url>
     <loc>https://quarkquartet.github.io/en/project/</loc><xhtml:link
       rel="alternate"
@@ -242,4 +238,6 @@
       rel="alternate"
       hreflang="en"
       href="https://quarkquartet.github.io/en/project/"
-    /></url></urlset>
+    /></url>
+  <url>
+    <loc>https://quarkquartet.github.io/en/tag/projects/</loc></url></urlset>
