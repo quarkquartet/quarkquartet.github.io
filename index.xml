@@ -59,12 +59,15 @@
 
 
 
+
+
 &lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -281,27 +284,27 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Featured Projects</title>
-      <link>https://quarkquartet.github.io/project/</link>
+      <title>Research</title>
+      <link>https://quarkquartet.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://quarkquartet.github.io/project/</guid>
-      <description>&lt;p&gt;Here are the current projects I&amp;rsquo;m working on.&lt;/p&gt;
-&lt;h2 id=&#34;electroweak-or-electroweak-like-phase-transition-and-baryogenesis&#34;&gt;Electroweak or electroweak-like phase transition, and baryogenesis&lt;/h2&gt;
-&lt;p&gt;It is well-known that our universe is dominated by matter instead of anti-matter, whose asymmetry remains unsolved. One promising solution to this puzzle is called &amp;ldquo;electroweak baryogenesis&amp;rdquo;. This type of mechanisms requires the electroweak phase transition (the transition of the Higgs field from the symmetric phase to the spontaneously broken phase) to be strong 1st order, which is not realized in the minimal Standard Model (SM).&lt;/p&gt;
-&lt;p&gt;Possible extensions on the SM to enhance the electroweak phase transition, or searching for a more promising electroweak-like phase transition at a higher energy scale has been appealing in the recent years. Details of thermodynamics, especially the computation of the thermal effective potential, on the other hand, is still tricky. I study both on model building and searches for thermodynamics.&lt;/p&gt;
-&lt;h2 id=&#34;axion-rotation-and-axiogenesis&#34;&gt;Axion rotation and axiogenesis&lt;/h2&gt;
-&lt;p&gt;Axion has been proposed for many years, aiming at solving the strong CP problem. It&amp;rsquo;s also a good dark matter candidate.&lt;/p&gt;
-&lt;p&gt;Recently, it&amp;rsquo;s been proposed that axion field can be rotating in the early universe, leading to a promising new mechanism to explain the matter-antimatter asymmetry, called &amp;ldquo;axiogenesis&amp;rdquo;. This mechanism cannot predict correct number of dark matter density and baryon asymmetry consistently in the minimal standard model. However, it&amp;rsquo;s promising to make it consistent in SM extensions.&lt;/p&gt;
-&lt;p&gt;More interesting cosmological signals can be predicted from scalar rotations, e.g. gravitational waves.&lt;/p&gt;
-&lt;p&gt;I study possible extensions to improve axiogenesis and possible signals.&lt;/p&gt;
-&lt;h2 id=&#34;parity-solutions-to-the-strong-cp-problem&#34;&gt;Parity solutions to the strong CP problem&lt;/h2&gt;
-&lt;p&gt;The smallness CP-violating phase in the strong interaction has been a puzzle, and building up a parity-symmetric theory has been a well-known proposal to bring up an elegant solution.&lt;/p&gt;
-&lt;p&gt;Connecting a parity symmetric theory with baryogenesis problem and dark matter candidate is super interesting.&lt;/p&gt;
-&lt;h2 id=&#34;searching-for-long-lived-dark-sector-mediator-in-new-experiments&#34;&gt;Searching for long-lived dark sector mediator in new experiments&lt;/h2&gt;
-&lt;p&gt;Dark matter is another famous unsolved puzzle in particle physics. It may be part of an unknown &amp;ldquo;dark sector&amp;rdquo; that interacts with the SM particles only via a &amp;ldquo;mediator&amp;rdquo;. Searching for this type of mediator is thus strongly motivated.&lt;/p&gt;
-&lt;p&gt;Some light and weakly interacting mediators are particularly interesting for their potential to solve the muon $g-2$ puzzle. Those particles are typically long-lived, and gives specific experimental signatures such as displaced vertex.&lt;/p&gt;
-&lt;p&gt;These particles can be searched by various types of experiments. And searches for the &amp;ldquo;mediator&amp;rdquo; can also inspire searches for other light neutral particles, such as axions or ALPs.&lt;/p&gt;
-&lt;p&gt;I study on possible new searches on this type of long-lived mediators.&lt;/p&gt;
+      <guid>https://quarkquartet.github.io/research/</guid>
+      <description>&lt;p&gt;I work on the frontier of theoretical particle physics and cosmology. I&amp;rsquo;m in particular interested in the origin of matter-antimatter asymmetry, as well as other cosmological and experimental probes of interesting physics. This page shows research directions that I&amp;rsquo;m currently working on. Other interesting topics may also catch my eye in the future.&lt;/p&gt;
+&lt;h2 id=&#34;parity-symmetric-model&#34;&gt;Parity-symmetric model&lt;/h2&gt;
+&lt;p&gt;The smallness of the strong CP phase in the Standard Model has been a puzzle for decades, called &amp;ldquo;the strong CP problem&amp;rdquo;. One elegant solution is to impose a parity symmetry 
+
+$L\leftrightarrow R$ and extend the SM gauge group as 
+
+$SU(3)_c \times SU(2)_L \times SU(2)_R\times U(1)_X$. This symmetry can forbid the strong-CP phase at least at tree-level, and provide a high-scale, electroweak-like phase transition 
+
+$SU(2)_R \times U(1)_X \rightarrow U(1)_Y$.&lt;/p&gt;
+&lt;p&gt;This extension of the standard model provides possibility to solve other problems together. For example, the new phase transition may open a window to generate the baryon asymmetry in a similar mannor of the well-known electroweak baryogenesis, see &lt;a href=&#34;https://inspirehep.net/literature/2173032&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this paper&lt;/a&gt; for details. It can also provide good dark matter candidiates, if any of the new fermions are neutral and stable.&lt;/p&gt;
+&lt;p&gt;Besides the work for baryogenesis mentioned above, I&amp;rsquo;m currently working on dark matter signatures, and also exploring more possibility to produce interesting signals.&lt;/p&gt;
+&lt;h2 id=&#34;electroweak-phase-transition-and-electroweak-baryogenesis&#34;&gt;Electroweak phase transition and electroweak baryogenesis&lt;/h2&gt;
+&lt;p&gt;The electroweak phase transition, if strong first order, offers out-of-thermal-equilibrium condition required for successful baryogenesis. However, the Higgs quartic coupling is too strong so that the electroweak phase transition in the SM is a smooth crossover. Extension is required to enhance the phase transition. Furthermore, interesting thermodynamics are involved once we talk about the details of phase transition and CP-violating interactions which is another necessary piece for the baryon asymmetry.&lt;/p&gt;
+&lt;p&gt;I work on model buildings to extend the phase transition, and I spend plenty of time exploring interesting thermodynamics.&lt;/p&gt;
+&lt;h2 id=&#34;probes-light-particles-in-experiments&#34;&gt;Probes light particles in experiments&lt;/h2&gt;
+&lt;p&gt;Besides heavy BSM particles, potential light particles are also strongly motivated and waiting to be probed. One famous example is the dark mediator. It&amp;rsquo;s well known that dark matter is an existing puzzle, and they are part of a &amp;ldquo;dark sector&amp;rdquo; in many models. The dark mediator is the only way that dark sector talks with the SM particles, and thus dark mediator is strongly motivated. The parameter space are in wide range, but typically they are not too heavy (far below EW scale). Among them, some light and weakly interacting mediators are particularly interesting for their potential to solve the muon $g-2$ puzzle. Those particles are typically long-lived, and give specific experimental signatures such as displaced vertex.&lt;/p&gt;
+&lt;p&gt;I study on possible new searches on this type of long-lived mediators. For example, dark photon and dark scalar.&lt;/p&gt;
 </description>
     </item>
     
