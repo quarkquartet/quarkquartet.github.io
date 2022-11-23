@@ -81,6 +81,9 @@
     <loc>https://quarkquartet.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://quarkquartet.github.io/contact/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://quarkquartet.github.io/research/</loc>
     <changefreq>weekly</changefreq>
   </url>
