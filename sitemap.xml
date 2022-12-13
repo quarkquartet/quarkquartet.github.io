@@ -6,12 +6,12 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://quarkquartet.github.io/event/</loc>
+    <loc>https://quarkquartet.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://quarkquartet.github.io/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <loc>https://quarkquartet.github.io/event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://quarkquartet.github.io/tag/academic/</loc>
@@ -78,14 +78,6 @@
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://quarkquartet.github.io/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://quarkquartet.github.io/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://quarkquartet.github.io/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -126,6 +118,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://quarkquartet.github.io/contact/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://quarkquartet.github.io/research/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
