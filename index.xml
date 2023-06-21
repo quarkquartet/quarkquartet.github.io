@@ -5,9 +5,9 @@
     <link>https://quarkquartet.github.io/</link>
       <atom:link href="https://quarkquartet.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>QuarkQuartet</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://quarkquartet.github.io/media/icon_hub08a7c0bf1023e653e58fab5635e6562_230070_512x512_fill_lanczos_center_3.png</url>
+      <url>https://quarkquartet.github.io/media/icon_hu9fe4af0edb92d3e40e98501fc4baa281_1731920_512x512_fill_lanczos_center_3.png</url>
       <title>QuarkQuartet</title>
       <link>https://quarkquartet.github.io/</link>
     </image>
@@ -30,6 +30,14 @@
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Parity-symmetric model</title>
+      <link>https://quarkquartet.github.io/project/parity/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/project/parity/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -311,27 +319,6 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://quarkquartet.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://quarkquartet.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://quarkquartet.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://quarkquartet.github.io/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>An example journal article</title>
       <link>https://quarkquartet.github.io/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
@@ -378,7 +365,7 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Contact Me</title>
+      <title>Contact</title>
       <link>https://quarkquartet.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://quarkquartet.github.io/contact/</guid>
@@ -387,26 +374,19 @@ $$&lt;/p&gt;
     
     <item>
       <title>Research</title>
-      <link>https://quarkquartet.github.io/research/</link>
+      <link>https://quarkquartet.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://quarkquartet.github.io/research/</guid>
-      <description>&lt;p&gt;I work on the frontier of theoretical particle physics and cosmology. I&amp;rsquo;m in particular interested in the origin of matter-antimatter asymmetry, as well as other cosmological and experimental probes of interesting physics. This page shows research directions that I&amp;rsquo;m currently working on. Other interesting topics may also catch my eye in the future.&lt;/p&gt;
-&lt;h2 id=&#34;parity-symmetric-model&#34;&gt;Parity-symmetric model&lt;/h2&gt;
-&lt;p&gt;The smallness of the strong CP phase in the Standard Model has been a puzzle for decades, called &amp;ldquo;the strong CP problem&amp;rdquo;. One elegant solution is to impose a parity symmetry 
-
-$L\leftrightarrow R$ and extend the SM gauge group as 
-
-$SU(3)_c \times SU(2)_L \times SU(2)_R\times U(1)_X$. This symmetry can forbid the strong-CP phase at least at tree-level, and provide a high-scale, electroweak-like phase transition 
-
-$SU(2)_R \times U(1)_X \rightarrow U(1)_Y$.&lt;/p&gt;
-&lt;p&gt;This extension of the standard model provides possibility to solve other problems together. For example, the new phase transition may open a window to generate the baryon asymmetry in a similar mannor of the well-known electroweak baryogenesis, see &lt;a href=&#34;https://inspirehep.net/literature/2173032&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this paper&lt;/a&gt; for details. It can also provide good dark matter candidiates, if any of the new fermions are neutral and stable.&lt;/p&gt;
-&lt;p&gt;Besides the work for baryogenesis mentioned above, I&amp;rsquo;m currently working on dark matter signatures, and also exploring more possibility to produce interesting signals.&lt;/p&gt;
-&lt;h2 id=&#34;electroweak-phase-transition-and-electroweak-baryogenesis&#34;&gt;Electroweak phase transition and electroweak baryogenesis&lt;/h2&gt;
-&lt;p&gt;The electroweak phase transition, if strong first order, offers out-of-thermal-equilibrium condition required for successful baryogenesis. However, the Higgs quartic coupling is too strong so that the electroweak phase transition in the SM is a smooth crossover. Extension is required to enhance the phase transition. Furthermore, interesting thermodynamics are involved once we talk about the details of phase transition and CP-violating interactions which is another necessary piece for the baryon asymmetry.&lt;/p&gt;
-&lt;p&gt;I work on model buildings to extend the phase transition, and I spend plenty of time exploring interesting thermodynamics.&lt;/p&gt;
-&lt;h2 id=&#34;probes-light-particles-in-experiments&#34;&gt;Probes light particles in experiments&lt;/h2&gt;
-&lt;p&gt;Besides heavy BSM particles, potential light particles are also strongly motivated and waiting to be probed. One famous example is the dark mediator. It&amp;rsquo;s well known that dark matter is an existing puzzle, and they are part of a &amp;ldquo;dark sector&amp;rdquo; in many models. The dark mediator is the only way that dark sector talks with the SM particles, and thus dark mediator is strongly motivated. The parameter space are in wide range, but typically they are not too heavy (far below EW scale). Among them, some light and weakly interacting mediators are particularly interesting for their potential to solve the muon $g-2$ puzzle. Those particles are typically long-lived, and give specific experimental signatures such as displaced vertex.&lt;/p&gt;
-&lt;p&gt;I study on possible new searches on this type of long-lived mediators. For example, dark photon and dark scalar.&lt;/p&gt;
+      <guid>https://quarkquartet.github.io/projects/</guid>
+      <description>&lt;p&gt;I work on the frontier of theoretical particle physics and cosmology. I&amp;rsquo;m in particular interested in the origin of matter-antimatter asymmetry, with emphasizing on the models related with electroweak (-like) phase transition.
+I also work on some other particle cosmology topics such as dark matter, or some experimental/cosmological probes for interesting physics.&lt;/p&gt;
+&lt;p&gt;Below you can find introduction of the physics topics that I&amp;rsquo;m interested in. I&amp;rsquo;ll introduce them in plain language. If you are professional and want to see more, you can go to &lt;a href=&#34;#projects&#34;&gt;the bottom of this page&lt;/a&gt;, where you can find the interesting projects that I&amp;rsquo;ve worked on.&lt;/p&gt;
+&lt;h2 id=&#34;baryogenesis-problem-where-are-the-anti-matters&#34;&gt;Baryogenesis problem: where are the anti-matters?&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s a common sense that we can only see matters, not anti-matters, in our daily life.&lt;/p&gt;
+&lt;p&gt;In a more scientific description, we say that the matter is over-dominating the anti-matter in number density (or energy density, whatever you want to call) in our universe.&lt;/p&gt;
+&lt;p&gt;The problem is: the matter and anti-matter should always be equivalently created since the Big Bang, unless there are some asymmetries during some time periods that make them produced differently. So what are those asymmetries, and when did they happen?&lt;/p&gt;
+&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;
+&lt;p&gt;Here is a list of the projects that I&amp;rsquo;ve worked on.
+&lt;/br&gt;&lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     
