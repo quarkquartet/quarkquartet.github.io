@@ -5,7 +5,7 @@
     <link>https://quarkquartet.github.io/</link>
       <atom:link href="https://quarkquartet.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>QuarkQuartet</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://quarkquartet.github.io/media/icon_hu9fe4af0edb92d3e40e98501fc4baa281_1731920_512x512_fill_lanczos_center_3.png</url>
       <title>QuarkQuartet</title>
@@ -34,9 +34,9 @@
     
     <item>
       <title>Parity-symmetric model</title>
-      <link>https://quarkquartet.github.io/project/parity/</link>
+      <link>https://quarkquartet.github.io/projects/parity/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://quarkquartet.github.io/project/parity/</guid>
+      <guid>https://quarkquartet.github.io/projects/parity/</guid>
       <description></description>
     </item>
     
@@ -319,6 +319,22 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Contact</title>
+      <link>https://quarkquartet.github.io/contact/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Research</title>
+      <link>https://quarkquartet.github.io/research/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An example journal article</title>
       <link>https://quarkquartet.github.io/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
@@ -362,32 +378,6 @@ $$&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://quarkquartet.github.io/admin/config.yml</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://quarkquartet.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://quarkquartet.github.io/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://quarkquartet.github.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://quarkquartet.github.io/projects/</guid>
-      <description>&lt;p&gt;I work on the frontier of theoretical particle physics and cosmology. I&amp;rsquo;m in particular interested in the origin of matter-antimatter asymmetry, with emphasizing on the models related with electroweak (-like) phase transition.
-I also work on some other particle cosmology topics such as dark matter, or some experimental/cosmological probes for interesting physics.&lt;/p&gt;
-&lt;p&gt;Below you can find introduction of the physics topics that I&amp;rsquo;m interested in. I&amp;rsquo;ll introduce them in plain language. If you are professional and want to see more, you can go to &lt;a href=&#34;#projects&#34;&gt;the bottom of this page&lt;/a&gt;, where you can find the interesting projects that I&amp;rsquo;ve worked on.&lt;/p&gt;
-&lt;h2 id=&#34;baryogenesis-problem-where-are-the-anti-matters&#34;&gt;Baryogenesis problem: where are the anti-matters?&lt;/h2&gt;
-&lt;p&gt;It&amp;rsquo;s a common sense that we can only see matters, not anti-matters, in our daily life.&lt;/p&gt;
-&lt;p&gt;In a more scientific description, we say that the matter is over-dominating the anti-matter in number density (or energy density, whatever you want to call) in our universe.&lt;/p&gt;
-&lt;p&gt;The problem is: the matter and anti-matter should always be equivalently created since the Big Bang, unless there are some asymmetries during some time periods that make them produced differently. So what are those asymmetries, and when did they happen?&lt;/p&gt;
-&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;
-&lt;p&gt;Here is a list of the projects that I&amp;rsquo;ve worked on.
-&lt;/br&gt;&lt;br&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
