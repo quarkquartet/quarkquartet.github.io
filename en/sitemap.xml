@@ -16,20 +16,6 @@
                 href="https://quarkquartet.github.io/talk/example-talk/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://quarkquartet.github.io/"
-                />
-  </url><url>
     <loc>https://quarkquartet.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -98,6 +84,20 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://quarkquartet.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://quarkquartet.github.io/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/"
                 />
   </url><url>
     <loc>https://quarkquartet.github.io/tag/academic/</loc>

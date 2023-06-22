@@ -30,20 +30,6 @@
                 href="https://quarkquartet.github.io/zh/event/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://quarkquartet.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/"
-                />
-  </url><url>
     <loc>https://quarkquartet.github.io/zh/tag/deep-learning/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -98,6 +84,20 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="https://quarkquartet.github.io/zh/tags/"
+                />
+  </url><url>
+    <loc>https://quarkquartet.github.io/zh/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/"
                 />
   </url><url>
     <loc>https://quarkquartet.github.io/zh/tag/academic/</loc>
