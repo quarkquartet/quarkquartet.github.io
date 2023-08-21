@@ -13,11 +13,18 @@
     </image>
     
     <item>
-      <title>Parity-symmetric model</title>
+      <title>Parity-Symmetric Model</title>
       <link>https://quarkquartet.github.io/projects/parity/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://quarkquartet.github.io/projects/parity/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Parity is a good solution to the strong CP problem. I have written a &lt;a href=&#34;https://quarkquartet.github.io/post/strongCP/#a-description-for-the-strong-cp-problem&#34;&gt;post for strong CP problem and its solutions&lt;/a&gt;.
+Basically, we can have a gauge group of the standard parity-symmetric model 
+
+$SU(3)_C \times SU(2)_L \times SU(2)_R \times U(1)_{B-L}$. The next step is: &lt;strong&gt;can this model provide us more solutions to other unsolved puzzles&lt;/strong&gt;?&lt;/p&gt;
+&lt;p&gt;Recently, I&amp;rsquo;ve been working in this direction. Things included are: dark matter, baryogenesis, and neutrino masses.&lt;/p&gt;
+&lt;h2 id=&#34;baryogenesis-in-parity-symmetric-model&#34;&gt;Baryogenesis in parity-symmetric model&lt;/h2&gt;
+</description>
     </item>
     
   </channel>

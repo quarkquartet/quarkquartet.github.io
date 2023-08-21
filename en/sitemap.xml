@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://quarkquartet.github.io/talk/example-talk/</loc>
+    <loc>https://quarkquartet.github.io/talk/Example-Talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/talk/example-talk/"
+                href="https://quarkquartet.github.io/zh/talk/Example-Talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/talk/example-talk/"
+                href="https://quarkquartet.github.io/talk/Example-Talk/"
                 />
   </url><url>
     <loc>https://quarkquartet.github.io/event/</loc>
@@ -30,60 +30,124 @@
                 href="https://quarkquartet.github.io/event/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/tag/baryogenesis/</loc>
-    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+    <loc>https://quarkquartet.github.io/post/strongCP/</loc>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/baryogenesis/"
+                href="https://quarkquartet.github.io/zh/post/strongCP/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/baryogenesis/"
+                href="https://quarkquartet.github.io/post/strongCP/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/tag/dark-matter/</loc>
-    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+    <loc>https://quarkquartet.github.io/tag/Baryogenesis/</loc>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/dark-matter/"
+                href="https://quarkquartet.github.io/zh/tag/Baryogenesis/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/dark-matter/"
+                href="https://quarkquartet.github.io/tag/Baryogenesis/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/tag/left-right-symmetry/</loc>
-    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+    <loc>https://quarkquartet.github.io/tag/Dark-Matter/</loc>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/left-right-symmetry/"
+                href="https://quarkquartet.github.io/zh/tag/Dark-Matter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/left-right-symmetry/"
+                href="https://quarkquartet.github.io/tag/Dark-Matter/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/tag/parity/</loc>
-    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+    <loc>https://quarkquartet.github.io/tag/Left-Right-Symmetry/</loc>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/parity/"
+                href="https://quarkquartet.github.io/zh/tag/Left-Right-Symmetry/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/parity/"
+                href="https://quarkquartet.github.io/tag/Left-Right-Symmetry/"
+                />
+  </url><url>
+    <loc>https://quarkquartet.github.io/post/</loc>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/post/"
+                />
+  </url><url>
+    <loc>https://quarkquartet.github.io/tag/Parity/</loc>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/tag/Parity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/tag/Parity/"
+                />
+  </url><url>
+    <loc>https://quarkquartet.github.io/tag/Physics/</loc>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://quarkquartet.github.io/tag/Research/</loc>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://quarkquartet.github.io/tag/Strong-CP-Problem/</loc>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/tag/Strong-CP-Problem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/tag/Strong-CP-Problem/"
+                />
+  </url><url>
+    <loc>https://quarkquartet.github.io/tags/</loc>
+    <lastmod>2023-08-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/tags/"
                 />
   </url><url>
     <loc>https://quarkquartet.github.io/projects/parity/</loc>
@@ -114,34 +178,6 @@
                 href="https://quarkquartet.github.io/projects/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/tag/strong-cp-problem/</loc>
-    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/strong-cp-problem/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/strong-cp-problem/"
-                />
-  </url><url>
-    <loc>https://quarkquartet.github.io/tags/</loc>
-    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://quarkquartet.github.io/tags/"
-                />
-  </url><url>
     <loc>https://quarkquartet.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -154,104 +190,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://quarkquartet.github.io/"
-                />
-  </url><url>
-    <loc>https://quarkquartet.github.io/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/academic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/academic/"
-                />
-  </url><url>
-    <loc>https://quarkquartet.github.io/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://quarkquartet.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://quarkquartet.github.io/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/category/demo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://quarkquartet.github.io/category/demo/"
-                />
-  </url><url>
-    <loc>https://quarkquartet.github.io/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://quarkquartet.github.io/post/"
-                />
-  </url><url>
-    <loc>https://quarkquartet.github.io/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/post/getting-started/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://quarkquartet.github.io/post/getting-started/"
-                />
-  </url><url>
-    <loc>https://quarkquartet.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/%E5%BC%80%E6%BA%90/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/%E5%BC%80%E6%BA%90/"
-                />
-  </url><url>
-    <loc>https://quarkquartet.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/category/%E6%95%99%E7%A8%8B/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://quarkquartet.github.io/category/%E6%95%99%E7%A8%8B/"
                 />
   </url><url>
     <loc>https://quarkquartet.github.io/publication-type/3/</loc>
@@ -310,32 +248,18 @@
                 href="https://quarkquartet.github.io/publication/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/tag/source-themes/</loc>
+    <loc>https://quarkquartet.github.io/tag/Source-Themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/source-themes/"
+                href="https://quarkquartet.github.io/zh/tag/Source-Themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/source-themes/"
-                />
-  </url><url>
-    <loc>https://quarkquartet.github.io/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/post/jupyter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://quarkquartet.github.io/post/jupyter/"
+                href="https://quarkquartet.github.io/tag/Source-Themes/"
                 />
   </url><url>
     <loc>https://quarkquartet.github.io/slides/</loc>
@@ -461,6 +385,32 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://quarkquartet.github.io/admin/"
+                />
+  </url><url>
+    <loc>https://quarkquartet.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://quarkquartet.github.io/blogs/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/blogs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/blogs/"
                 />
   </url>
 </urlset>
