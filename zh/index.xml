@@ -93,7 +93,7 @@
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图1&#34;
            src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/1.gif&#34;
-           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图1
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -121,7 +121,7 @@
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图2&#34;
            src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/2.gif&#34;
-           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图2
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -149,7 +149,7 @@
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图3&#34;
            src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/3.gif&#34;
-           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图3
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -180,7 +180,7 @@
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图4&#34;
            src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/4.gif&#34;
-           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图4
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -208,7 +208,7 @@
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图5&#34;
            src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/5.gif&#34;
-           loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图5
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -236,7 +236,7 @@
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图6&#34;
            src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/6.gif&#34;
-           loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图6
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -266,7 +266,7 @@
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图7&#34;
            src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/7.gif&#34;
-           loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图7
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -293,7 +293,7 @@
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图8&#34;
            src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/8.gif&#34;
-           loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图8
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -320,7 +320,7 @@
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图9&#34;
            src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/9.gif&#34;
-           loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图9
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -363,7 +363,7 @@
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图10&#34;
            src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/10.gif&#34;
-           loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图10
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -391,7 +391,7 @@
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图11&#34;
            src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/11.gif&#34;
-           loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图11
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -420,7 +420,7 @@
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图12&#34;
            src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/12.gif&#34;
-           loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图12
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -449,7 +449,7 @@
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图13&#34;
            src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/13.gif&#34;
-           loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图13
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -481,7 +481,7 @@
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图14&#34;
            src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/14.gif&#34;
-           loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图14
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -510,7 +510,7 @@
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图15&#34;
            src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/15.gif&#34;
-           loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图15
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -538,7 +538,9 @@
 
 &lt;figure  id=&#34;figure-图16&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/16.gif&#34; alt=&#34;图16&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图16&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/16.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图16
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -567,7 +569,9 @@
 
 &lt;figure  id=&#34;figure-图17&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/17.gif&#34; alt=&#34;图17&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图17&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/17.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图17
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -606,7 +610,9 @@
 
 &lt;figure  id=&#34;figure-图18&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/18.gif&#34; alt=&#34;图18&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图18&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/18.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图18
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -632,7 +638,9 @@
 
 &lt;figure  id=&#34;figure-图19&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/19.gif&#34; alt=&#34;图19&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图19&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/19.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图19
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -658,7 +666,9 @@
 
 &lt;figure  id=&#34;figure-图20&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/20.gif&#34; alt=&#34;图20&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图20&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/20.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图20
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -688,7 +698,9 @@
 
 &lt;figure  id=&#34;figure-图21&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/21.gif&#34; alt=&#34;图21&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图21&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/21.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图21
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -715,7 +727,9 @@
 
 &lt;figure  id=&#34;figure-图22&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/22.gif&#34; alt=&#34;图22&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图22&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/22.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图22
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -750,7 +764,9 @@
 
 &lt;figure  id=&#34;figure-图23&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/23.gif&#34; alt=&#34;图23&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图23&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/23.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图23
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -776,7 +792,9 @@
 
 &lt;figure  id=&#34;figure-图24&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/24.gif&#34; alt=&#34;图24&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图24&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/24.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图24
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -805,7 +823,9 @@
 
 &lt;figure  id=&#34;figure-图25&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/25.gif&#34; alt=&#34;图25&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图25&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/25.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图25
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -830,7 +850,9 @@
 
 &lt;figure  id=&#34;figure-图26&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/26.gif&#34; alt=&#34;图26&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图26&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/26.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图26
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -857,7 +879,9 @@
 
 &lt;figure  id=&#34;figure-图27&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/27.gif&#34; alt=&#34;图27&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图27&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/27.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图27
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -882,7 +906,9 @@
 
 &lt;figure  id=&#34;figure-图28&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/28.gif&#34; alt=&#34;图28&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图28&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/28.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图28
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -911,7 +937,9 @@
 
 &lt;figure  id=&#34;figure-图29&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/29.gif&#34; alt=&#34;图29&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图29&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/29.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图29
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -938,7 +966,9 @@
 
 &lt;figure  id=&#34;figure-图30&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/30.gif&#34; alt=&#34;图30&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图30&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/30.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图30
     &lt;/figcaption&gt;&lt;/figure&gt;
