@@ -33,6 +33,33 @@
     </item>
     
     <item>
+      <title>Axion rotation</title>
+      <link>https://quarkquartet.github.io/zh/project/axion-rotation/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/zh/project/axion-rotation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search for dark sector mediator</title>
+      <link>https://quarkquartet.github.io/zh/project/DM-mediator/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/zh/project/DM-mediator/</guid>
+      <description>&lt;p&gt;Dark matter has been an enduring mystery for decades. For now, people tends to be interested in dark sectors that talk with Standard Model particles only via a &amp;ldquo;portal&amp;rdquo;. This portal is usually a mediator that can interact both with dark sector particles and the SM particles.&lt;/p&gt;
+&lt;p&gt;Such a kind of mediators have rich implications on cosmology and experiments, and has been intensitvely studied in the past years. On the one hand, various experiments have been proposed, designed, and run. On the other hand, various cosmological imprints can be left from the evolution of dark matter and dark mediator in the early universe.&lt;/p&gt;
+&lt;p&gt;I work on both side of the &amp;ldquo;mediator&amp;rdquo;. You can see my publications below.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Imprints of light dark matter on the evolution of cosmic neutrinos</title>
+      <link>https://quarkquartet.github.io/zh/publication/neutrino_DM_imprints/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/zh/publication/neutrino_DM_imprints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>詹姆斯的球商高在哪里？：从伦敦奥运决赛分析</title>
       <link>https://quarkquartet.github.io/zh/post/James_IQ_zhihu/</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
@@ -984,6 +1011,14 @@
     </item>
     
     <item>
+      <title>ALP-assisted strong first-order electroweak phase transition and baryogenesis</title>
+      <link>https://quarkquartet.github.io/zh/publication/ALP_EWPT/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/zh/publication/ALP_EWPT/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A General Introduction to the Strong CP Problem</title>
       <link>https://quarkquartet.github.io/zh/post/strongCP/</link>
       <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
@@ -1151,10 +1186,18 @@ $f_a$ is the symmetry breaking scale, also the radius of the axion rotation. We 
     </item>
     
     <item>
-      <title>Parity-symmetric model</title>
-      <link>https://quarkquartet.github.io/zh/projects/parity/</link>
+      <title>Electroweak (-like) baryogenesis</title>
+      <link>https://quarkquartet.github.io/zh/project/EWBG/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://quarkquartet.github.io/zh/projects/parity/</guid>
+      <guid>https://quarkquartet.github.io/zh/project/EWBG/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parity-symmetric model</title>
+      <link>https://quarkquartet.github.io/zh/project/parity/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/zh/project/parity/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Parity is a good solution to the strong CP problem. I have written a &lt;a href=&#34;https://quarkquartet.github.io/zh/post/strongCP/#a-description-for-the-strong-cp-problem&#34;&gt;post for strong CP problem and its solutions&lt;/a&gt;.
 Basically, we can have a gauge group of the standard parity-symmetric model 
@@ -1230,17 +1273,35 @@ $SU(3)_C \times SU(2)_L \times SU(2)_R \times U(1)_{B-L}$. The next step is: &lt
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://quarkquartet.github.io/zh/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://quarkquartet.github.io/zh/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Baryogenesis in a parity solution to the strong CP problem</title>
+      <link>https://quarkquartet.github.io/zh/publication/Parity_EWBG/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/zh/publication/Parity_EWBG/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark photons and displaced vertices at the MUonE experiment</title>
+      <link>https://quarkquartet.github.io/zh/publication/dark_photon_MUonE/</link>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/zh/publication/dark_photon_MUonE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Axiogenesis from $SU(2)_R$ phase transition</title>
+      <link>https://quarkquartet.github.io/zh/publication/Axiogenesis_SU2R/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/zh/publication/Axiogenesis_SU2R/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electroweak-like baryogenesis with new chiral matter</title>
+      <link>https://quarkquartet.github.io/zh/publication/EWBG_chiral_matter/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/zh/publication/EWBG_chiral_matter/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -1382,44 +1443,6 @@ $$&lt;/p&gt;
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://quarkquartet.github.io/zh/research/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://quarkquartet.github.io/zh/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://quarkquartet.github.io/zh/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://quarkquartet.github.io/zh/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://quarkquartet.github.io/zh/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>

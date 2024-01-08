@@ -1,0 +1,14 @@
+% !TEX program = lualatex
+\documentclass[tikz]{standalone}
+\usepackage{tikz}
+\usepackage{tikz-feynman}
+\usetikzlibrary{decorations.shapes}
+\usetikzlibrary{patterns}
+\usetikzlibrary{snakes}
+\begin{document}
+\feynmandiagram [horizontal=a to b, thick] {
+i1 [particle=\(\chi\)] -- [fermion] a -- [fermion] i2 [particle=\(\chi\)],
+a -- [photon, edge label=mediator] b,
+f1 [particle=SM] -- [fermion] b -- [fermion] f2 [particle=SM],
+};
+\end{document}

@@ -5,7 +5,7 @@
     <link>https://quarkquartet.github.io/zh/publication-type/3/</link>
       <atom:link href="https://quarkquartet.github.io/zh/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://quarkquartet.github.io/media/icon_hu9fe4af0edb92d3e40e98501fc4baa281_1731920_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
@@ -13,17 +13,19 @@
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://quarkquartet.github.io/zh/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://quarkquartet.github.io/zh/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Imprints of light dark matter on the evolution of cosmic neutrinos</title>
+      <link>https://quarkquartet.github.io/zh/publication/neutrino_DM_imprints/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/zh/publication/neutrino_DM_imprints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ALP-assisted strong first-order electroweak phase transition and baryogenesis</title>
+      <link>https://quarkquartet.github.io/zh/publication/ALP_EWPT/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/zh/publication/ALP_EWPT/</guid>
+      <description></description>
     </item>
     
   </channel>
