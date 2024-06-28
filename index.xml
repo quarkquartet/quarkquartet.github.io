@@ -5,7 +5,7 @@
     <link>https://quarkquartet.github.io/</link>
       <atom:link href="https://quarkquartet.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>QuarkQuartet</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://quarkquartet.github.io/media/icon_hu9fe4af0edb92d3e40e98501fc4baa281_1731920_512x512_fill_lanczos_center_3.png</url>
       <title>QuarkQuartet</title>
@@ -427,14 +427,6 @@ $$&lt;/p&gt;
       <link>https://quarkquartet.github.io/research/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://quarkquartet.github.io/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://quarkquartet.github.io/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://quarkquartet.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

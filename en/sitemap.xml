@@ -802,19 +802,6 @@
                 href="https://quarkquartet.github.io/research/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/admin/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://quarkquartet.github.io/admin/"
-                />
-  </url><url>
     <loc>https://quarkquartet.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
