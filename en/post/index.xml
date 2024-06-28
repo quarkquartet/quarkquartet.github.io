@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Blogs | QuarkQuartet</title>
+    <link>https://quarkquartet.github.io/en/post/</link>
+      <atom:link href="https://quarkquartet.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>My Blogs</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://quarkquartet.github.io/media/icon_hu9fe4af0edb92d3e40e98501fc4baa281_1731920_512x512_fill_lanczos_center_3.png</url>
+      <title>My Blogs</title>
+      <link>https://quarkquartet.github.io/en/post/</link>
+    </image>
+    
+    <item>
+      <title>A General Introduction to the Strong CP Problem</title>
+      <link>https://quarkquartet.github.io/en/post/strongCP/</link>
+      <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/en/post/strongCP/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Written for people not familiar with this topic. Experts may find it trivial.&lt;/em&gt;&lt;/p&gt;
+
+
+&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#a-description-for-the-strong-cp-problem&#34;&gt;A Description for the Strong CP problem&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#parity-solution&#34;&gt;Parity solution&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#axion-solution&#34;&gt;Axion solution&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;a-description-for-the-strong-cp-problem&#34;&gt;A Description for the Strong CP problem&lt;/h2&gt;
+&lt;p&gt;It has been a long time since we found that the Standard Model (SM) is a &lt;strong&gt;chiral&lt;/strong&gt; theory, i.e. left and right-handed particles have different properties.
+Though it could be a natural, or simple, feeling, to claim that a beautiful model should be left-right symmetric, it does not seem cautious to impose this symmetry when we consider beyond Standard Model (BSM) physics until we find some really solid reason.
+Fortunately, there is a problem, known as the &lt;em&gt;strong CP problem&lt;/em&gt;, that can be solved eligantly under the left-right symmetry, or known in a more professional phrase, &lt;em&gt;parity symmetry&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;So, what is strong CP problem, and how parity symmetry can solve it?&lt;/p&gt;
+&lt;p&gt;Perhaps you have heard about the neutron electric dipole moment (EDM). What can the dipole moment be?&lt;/p&gt;
+&lt;p&gt;A naive calculation from classical physics is straightforward: the neutron contains one up-quark and two down-quarks. One can easily build a coordiante system and label the angle 
+
+$\theta$ in a way shown in the following picture. Apparently the dipole moment is
+
+
+
+$$
+\frac{d_n}{e} \simeq 10^{-13} \sqrt{1-\cos \theta}~\mathrm{cm}
+$$
+&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-a-classical-description-for-the-neutron-edm-and-the-strong-cp-phase-taken-from-anson-hooks-lecture-notehttpsinspirehepnetliterature1707528&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A classical description for the neutron EDM and the strong CP phase. Taken from [Anson Hook&amp;#39;s lecture note](https://inspirehep.net/literature/1707528).&#34; srcset=&#34;
+               /en/post/strongCP/featured_hub1761e16c2ea464147ed26ff16434e3f_61349_d932542e4e8bc34c705ed0a4ab980e0c.webp 400w,
+               /en/post/strongCP/featured_hub1761e16c2ea464147ed26ff16434e3f_61349_0ad9f56853955f510d91e1c6902f26d3.webp 760w,
+               /en/post/strongCP/featured_hub1761e16c2ea464147ed26ff16434e3f_61349_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://quarkquartet.github.io/en/post/strongCP/featured_hub1761e16c2ea464147ed26ff16434e3f_61349_d932542e4e8bc34c705ed0a4ab980e0c.webp&#34;
+               width=&#34;50%&#34;
+               height=&#34;556&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      A classical description for the neutron EDM and the strong CP phase. Taken from &lt;a href=&#34;https://inspirehep.net/literature/1707528&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anson Hook&amp;rsquo;s lecture note&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;If there is no force to make the angle 
+
+$\theta$ some fixed value, we would expect this angle is randomly distributed, and thus the neutron EDM. However, current experiment has shown this number to be always close to zero: we never observe any single neutron with an EDM larger than 
+
+$10^{-26}e~\rm cm$!&lt;/p&gt;
+&lt;p&gt;This immediately implies the vanishing of the 
+
+$\theta$ term. But why?&lt;/p&gt;
+&lt;p&gt;The vanishing of this 
+
+$\theta$ is called the &lt;em&gt;strong CP problem&lt;/em&gt;. Strictly speaking, strong CP problem is not a solid problem. You can just accept it and claim it as a coincidence. But, perhaps it&amp;rsquo;s a long-standing pursue of particle physics community, it&amp;rsquo;s just difficult for us to accept such a unnaturally small parameter in a model.&lt;/p&gt;
+&lt;p&gt;If you can&amp;rsquo;t accept it and must turn to solid problems like dark matter, emmmmmm, there is no objection. And as far as I know, the number of people who believe &amp;ldquo;strong CP problem is a problem&amp;rdquo; is as much as those who does not believe so. Just take it easy and think about it in a way you want.&lt;/p&gt;
+&lt;p&gt;You may wonder are there any quantum-level description of the above stuff. Yes. In SM, we can chirally rotate the quark fields like 
+
+$\psi \rightarrow \psi e^{i \gamma_5 \theta_s}$, and the Lagrangian acquires an extra term (if you are not familiar with this, you can refer to Chapter 29 and 30 of Matthew Schwartz&amp;rsquo;s textbook for quantum field theory)
+
+
+
+$$
+\mathcal{L} \rightarrow \mathcal{L} + \theta_s\frac{g_s^2}{32\pi^2} G_{\mu \nu} \tilde{G}^{\mu \nu},
+$$
+
+where the 
+
+$G$ field is the gluon field.
+Actually, since the fermion fields are not observable and can be written in any basis, the above term is generally existing and must be included in the Lagrangian.
+Rotating the quark field can shift the angle 
+
+$\theta_s$ into 
+
+$\arg (Y_u Y_d)$, where 
+
+$Y_{u,d}$ is the Yukawa matrix.
+The difference, on the other hand, 
+
+$\bar{\theta} \equiv \theta_s -\arg (Y_u Y_d) $, will not be changed and thus is physical!&lt;/p&gt;
+&lt;p&gt;Computation shows that this angle is indeed proportional to the neutron EDM
+
+
+
+$$
+\frac{d_n}{e} \simeq 5 \times 10^{-16} \bar{\theta}~\mathrm{cm}.
+$$
+
+So the smallness of this 
+
+$\bar{\theta}$ is the strong CP problem.&lt;/p&gt;
+&lt;h2 id=&#34;parity-solution&#34;&gt;Parity solution&lt;/h2&gt;
+&lt;p&gt;We can immediately think about it in this way: there must be some rules that forces the quarks to be aligned along a straight line! One possibility is that the neutron must be left-right symmetric, or parity-symmetric. And thus strong CP problem is solved.
+The parity symmetry at the quantum level can be described as
+
+
+
+$$
+SU(2)_L \leftrightarrow SU(2)_R, Q \leftrightarrow \bar{Q}, L \leftrightarrow \bar{L}, H_L \leftrightarrow H_R.
+$$
+
+Here we use the &lt;a href=&#34;https://inspirehep.net/literature/804666&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;two-component Weyl notation for fermions&lt;/a&gt;. 
+
+$Q$ and 
+
+$L$ are quarks and leptons, respectively. Right-handed fermions are doublets under 
+
+$SU(2)_R$. You can easily prove that this makes 
+
+$\bar{\theta}$ vanishes at tree level.&lt;/p&gt;
+&lt;p&gt;This solution is called the &lt;em&gt;parity solution&lt;/em&gt; to the strong CP problem.&lt;/p&gt;
+&lt;h2 id=&#34;axion-solution&#34;&gt;Axion solution&lt;/h2&gt;
+&lt;p&gt;Another way to think about this problem is: maybe there is an &amp;ldquo;axis&amp;rdquo; where the quarks are forced to be aligned along?&lt;/p&gt;
+&lt;p&gt;Emmmm yeah that&amp;rsquo;s possible. At quantum level, we say there is a new particle whose vacuum expectation value (vev) makes the neutron EDM to be 0. This particle is called &lt;em&gt;QCD axion&lt;/em&gt;.
+The Lagrangian is
+
+
+
+$$
+\mathcal{L} = \frac{a}{f_a} \frac{g_s}{32\pi^2} G_{\mu \nu} \tilde{G}^{\mu \nu} + \frac{1}{2} \partial_\mu a \partial^\mu a
+$$
+&lt;/p&gt;
+&lt;p&gt;The axion vev is acquired when 
+
+$\langle a \rangle /f_a = - \theta_s$. This cancels the anomaly term and thus the strong CP problem is solved. For the details of the potential of 
+
+$\theta_s$ term and axion, see &lt;a href=&#34;https://inspirehep.net/literature/1707528&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anson Hook&amp;rsquo;s lecture note&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Lagrangian itself is not a UV-complete theory. The UV model can be various, but in common, axion is the angular degree of freedom of some complex scalar 
+
+$P$. The potential of 
+
+$P$ at UV has a 
+
+$U(1)$ rotational symmetry called Peccei-Quinn symmetry. The radial mode of the field 
+
+$P$ acquires a vev that breaks the PQ symmetry, and thus axion becomes the Nambu-Goldstone boson of 
+
+$U(1)_{\rm PQ}$. 
+
+$f_a$ is the symmetry breaking scale, also the radius of the axion rotation. We call it &lt;em&gt;axion decay constant&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;QCD axion is also a good dark matter candidate. And further, &lt;a href=&#34;https://inspirehep.net/literature/1757727&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a recent idea&lt;/a&gt; proposes to utilize the initial axion rotation to generate the baryon asymmetry of the universe. This new mechanism, similar to the famous Affleck-Dine baryogenesis with axion playing the role of the scalar, is named as &lt;em&gt;axiogenesis&lt;/em&gt;. Axion rotation and axiogenesis is one of the interesting and promising direction in the recent particle physics community.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

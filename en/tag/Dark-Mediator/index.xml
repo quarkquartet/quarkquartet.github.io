@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dark Mediator | QuarkQuartet</title>
+    <link>https://quarkquartet.github.io/en/tag/Dark-Mediator/</link>
+      <atom:link href="https://quarkquartet.github.io/en/tag/Dark-Mediator/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dark Mediator</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://quarkquartet.github.io/media/icon_hu9fe4af0edb92d3e40e98501fc4baa281_1731920_512x512_fill_lanczos_center_3.png</url>
+      <title>Dark Mediator</title>
+      <link>https://quarkquartet.github.io/en/tag/Dark-Mediator/</link>
+    </image>
+    
+    <item>
+      <title>Search for dark sector mediator</title>
+      <link>https://quarkquartet.github.io/en/project/DM-mediator/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/en/project/DM-mediator/</guid>
+      <description>&lt;p&gt;Dark matter has been an enduring mystery for decades. For now, people tends to be interested in dark sectors that talk with Standard Model particles only via a &amp;ldquo;portal&amp;rdquo;. This portal is usually a mediator that can interact both with dark sector particles and the SM particles.&lt;/p&gt;
+&lt;p&gt;Such a kind of mediators have rich implications on cosmology and experiments, and has been intensitvely studied in the past years. On the one hand, various experiments have been proposed, designed, and run. On the other hand, various cosmological imprints can be left from the evolution of dark matter and dark mediator in the early universe.&lt;/p&gt;
+&lt;p&gt;I work on both side of the &amp;ldquo;mediator&amp;rdquo;. You can see my publications below.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Imprints of light dark matter on the evolution of cosmic neutrinos</title>
+      <link>https://quarkquartet.github.io/en/publication/neutrino_DM_imprints/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/en/publication/neutrino_DM_imprints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark photons and displaced vertices at the MUonE experiment</title>
+      <link>https://quarkquartet.github.io/en/publication/dark_photon_MUonE/</link>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/en/publication/dark_photon_MUonE/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

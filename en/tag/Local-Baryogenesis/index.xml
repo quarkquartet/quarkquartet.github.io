@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Local Baryogenesis | QuarkQuartet</title>
+    <link>https://quarkquartet.github.io/en/tag/Local-Baryogenesis/</link>
+      <atom:link href="https://quarkquartet.github.io/en/tag/Local-Baryogenesis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Local Baryogenesis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://quarkquartet.github.io/media/icon_hu9fe4af0edb92d3e40e98501fc4baa281_1731920_512x512_fill_lanczos_center_3.png</url>
+      <title>Local Baryogenesis</title>
+      <link>https://quarkquartet.github.io/en/tag/Local-Baryogenesis/</link>
+    </image>
+    
+    <item>
+      <title>ALP-assisted strong first-order electroweak phase transition and baryogenesis</title>
+      <link>https://quarkquartet.github.io/en/publication/ALP_EWPT/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/en/publication/ALP_EWPT/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baryogenesis in a parity solution to the strong CP problem</title>
+      <link>https://quarkquartet.github.io/en/publication/Parity_EWBG/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/en/publication/Parity_EWBG/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

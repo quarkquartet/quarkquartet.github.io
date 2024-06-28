@@ -8,7 +8,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/talk/Example-Talk/"
+                href="https://quarkquartet.github.io/en/talk/Example-Talk/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -22,7 +22,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/event/"
+                href="https://quarkquartet.github.io/en/event/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -40,7 +40,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tags/"
+                href="https://quarkquartet.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -58,7 +58,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/post/"
+                href="https://quarkquartet.github.io/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -82,46 +82,32 @@
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/axiogenesis/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Axiogenesis/</loc>
     <lastmod>2024-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/axiogenesis/"
+                href="https://quarkquartet.github.io/en/tag/Axiogenesis/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/axiogenesis/"
+                href="https://quarkquartet.github.io/zh/tag/Axiogenesis/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/axion/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Axion/</loc>
     <lastmod>2024-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/axion/"
+                href="https://quarkquartet.github.io/en/tag/Axion/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/axion/"
-                />
-  </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/axion-rotation/</loc>
-    <lastmod>2024-01-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/axion-rotation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/axion-rotation/"
+                href="https://quarkquartet.github.io/zh/tag/Axion/"
                 />
   </url><url>
     <loc>https://quarkquartet.github.io/zh/project/axion-rotation/</loc>
@@ -130,7 +116,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/project/axion-rotation/"
+                href="https://quarkquartet.github.io/en/project/axion-rotation/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -138,74 +124,88 @@
                 href="https://quarkquartet.github.io/zh/project/axion-rotation/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/cosmology/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Axion-Rotation/</loc>
     <lastmod>2024-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/cosmology/"
+                href="https://quarkquartet.github.io/en/tag/Axion-Rotation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/cosmology/"
+                href="https://quarkquartet.github.io/zh/tag/Axion-Rotation/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/dark-Matter/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Cosmology/</loc>
     <lastmod>2024-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/dark-Matter/"
+                href="https://quarkquartet.github.io/en/tag/Cosmology/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/dark-Matter/"
+                href="https://quarkquartet.github.io/zh/tag/Cosmology/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/dark-mediator/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Dark-Matter/</loc>
     <lastmod>2024-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/dark-mediator/"
+                href="https://quarkquartet.github.io/en/tag/Dark-Matter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/dark-mediator/"
+                href="https://quarkquartet.github.io/zh/tag/Dark-Matter/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/dark-sector/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Dark-Mediator/</loc>
     <lastmod>2024-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/dark-sector/"
+                href="https://quarkquartet.github.io/en/tag/Dark-Mediator/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/dark-sector/"
+                href="https://quarkquartet.github.io/zh/tag/Dark-Mediator/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/experiments/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Dark-Sector/</loc>
     <lastmod>2024-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/experiments/"
+                href="https://quarkquartet.github.io/en/tag/Dark-Sector/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/experiments/"
+                href="https://quarkquartet.github.io/zh/tag/Dark-Sector/"
+                />
+  </url><url>
+    <loc>https://quarkquartet.github.io/zh/tag/Experiments/</loc>
+    <lastmod>2024-01-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/tag/Experiments/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/tag/Experiments/"
                 />
   </url><url>
     <loc>https://quarkquartet.github.io/zh/project/</loc>
@@ -214,7 +214,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/project/"
+                href="https://quarkquartet.github.io/en/project/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -228,7 +228,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/project/DM-mediator/"
+                href="https://quarkquartet.github.io/en/project/DM-mediator/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -242,7 +242,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/publication-type/3/"
+                href="https://quarkquartet.github.io/en/publication-type/3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -250,18 +250,18 @@
                 href="https://quarkquartet.github.io/zh/publication-type/3/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/Boltzmann-equation/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Boltzmann-Equation/</loc>
     <lastmod>2023-12-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/Boltzmann-equation/"
+                href="https://quarkquartet.github.io/en/tag/Boltzmann-Equation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/Boltzmann-equation/"
+                href="https://quarkquartet.github.io/zh/tag/Boltzmann-Equation/"
                 />
   </url><url>
     <loc>https://quarkquartet.github.io/zh/publication/neutrino_DM_imprints/</loc>
@@ -270,7 +270,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/publication/neutrino_DM_imprints/"
+                href="https://quarkquartet.github.io/en/publication/neutrino_DM_imprints/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -284,7 +284,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/Neff/"
+                href="https://quarkquartet.github.io/en/tag/Neff/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -292,18 +292,18 @@
                 href="https://quarkquartet.github.io/zh/tag/Neff/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/neutrino/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Neutrino/</loc>
     <lastmod>2023-12-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/neutrino/"
+                href="https://quarkquartet.github.io/en/tag/Neutrino/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/neutrino/"
+                href="https://quarkquartet.github.io/zh/tag/Neutrino/"
                 />
   </url><url>
     <loc>https://quarkquartet.github.io/zh/publication_types/</loc>
@@ -312,7 +312,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/publication_types/"
+                href="https://quarkquartet.github.io/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -326,7 +326,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/publication/"
+                href="https://quarkquartet.github.io/en/publication/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -334,18 +334,18 @@
                 href="https://quarkquartet.github.io/zh/publication/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/thermal-dark-matter/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Thermal-Dark-Matter/</loc>
     <lastmod>2023-12-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/thermal-dark-matter/"
+                href="https://quarkquartet.github.io/en/tag/Thermal-Dark-Matter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/thermal-dark-matter/"
+                href="https://quarkquartet.github.io/zh/tag/Thermal-Dark-Matter/"
                 />
   </url><url>
     <loc>https://quarkquartet.github.io/zh/tag/FIBA/</loc>
@@ -374,7 +374,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/publication/ALP_EWPT/"
+                href="https://quarkquartet.github.io/en/publication/ALP_EWPT/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -382,50 +382,60 @@
                 href="https://quarkquartet.github.io/zh/publication/ALP_EWPT/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/atomic-EDM/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Atomic-EDM/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/atomic-EDM/"
+                href="https://quarkquartet.github.io/en/tag/Atomic-EDM/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/atomic-EDM/"
+                href="https://quarkquartet.github.io/zh/tag/Atomic-EDM/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/axion-like-particle/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Axion-Like-Particle/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/axion-like-particle/"
+                href="https://quarkquartet.github.io/en/tag/Axion-Like-Particle/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/axion-like-particle/"
+                href="https://quarkquartet.github.io/zh/tag/Axion-Like-Particle/"
                 />
   </url><url>
     <loc>https://quarkquartet.github.io/zh/tag/Baryogenesis/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/tag/Baryogenesis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/tag/Baryogenesis/"
+                />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/chiral-symmetry-breaking/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Chiral-Symmetry-Breaking/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/chiral-symmetry-breaking/"
+                href="https://quarkquartet.github.io/en/tag/Chiral-Symmetry-Breaking/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/chiral-symmetry-breaking/"
+                href="https://quarkquartet.github.io/zh/tag/Chiral-Symmetry-Breaking/"
                 />
   </url><url>
     <loc>https://quarkquartet.github.io/zh/tag/EDM/</loc>
@@ -434,7 +444,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/EDM/"
+                href="https://quarkquartet.github.io/en/tag/EDM/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -442,74 +452,74 @@
                 href="https://quarkquartet.github.io/zh/tag/EDM/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/electroweak-baryogenesis/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Electroweak-Baryogenesis/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/electroweak-baryogenesis/"
+                href="https://quarkquartet.github.io/en/tag/Electroweak-Baryogenesis/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/electroweak-baryogenesis/"
+                href="https://quarkquartet.github.io/zh/tag/Electroweak-Baryogenesis/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/electroweak-phase-transition/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Electroweak-Phase-Transition/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/electroweak-phase-transition/"
+                href="https://quarkquartet.github.io/en/tag/Electroweak-Phase-Transition/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/electroweak-phase-transition/"
+                href="https://quarkquartet.github.io/zh/tag/Electroweak-Phase-Transition/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/kaon-decay/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Kaon-Decay/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/kaon-decay/"
+                href="https://quarkquartet.github.io/en/tag/Kaon-Decay/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/kaon-decay/"
+                href="https://quarkquartet.github.io/zh/tag/Kaon-Decay/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/local-baryogenesis/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Local-Baryogenesis/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/local-baryogenesis/"
+                href="https://quarkquartet.github.io/en/tag/Local-Baryogenesis/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/local-baryogenesis/"
+                href="https://quarkquartet.github.io/zh/tag/Local-Baryogenesis/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/scalar-extension/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Scalar-Extension/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/scalar-extension/"
+                href="https://quarkquartet.github.io/en/tag/Scalar-Extension/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/scalar-extension/"
+                href="https://quarkquartet.github.io/zh/tag/Scalar-Extension/"
                 />
   </url><url>
     <loc>https://quarkquartet.github.io/zh/post/strongCP/</loc>
@@ -518,7 +528,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/post/strongCP/"
+                href="https://quarkquartet.github.io/en/post/strongCP/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -529,14 +539,44 @@
     <loc>https://quarkquartet.github.io/zh/tag/Left-Right-Symmetry/</loc>
     <lastmod>2023-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/tag/Left-Right-Symmetry/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/tag/Left-Right-Symmetry/"
+                />
   </url><url>
     <loc>https://quarkquartet.github.io/zh/tag/Parity/</loc>
     <lastmod>2023-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/tag/Parity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/tag/Parity/"
+                />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/strong-CP-Problem/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Strong-CP-Problem/</loc>
     <lastmod>2023-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/tag/Strong-CP-Problem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/tag/Strong-CP-Problem/"
+                />
   </url><url>
     <loc>https://quarkquartet.github.io/zh/tag/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/</loc>
     <lastmod>2023-08-13T00:00:00+00:00</lastmod>
@@ -568,7 +608,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/project/EWBG/"
+                href="https://quarkquartet.github.io/en/project/EWBG/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -582,7 +622,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/project/parity/"
+                href="https://quarkquartet.github.io/en/project/parity/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -590,32 +630,32 @@
                 href="https://quarkquartet.github.io/zh/project/parity/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/physics/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Physics/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/physics/"
+                href="https://quarkquartet.github.io/en/tag/Physics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/physics/"
+                href="https://quarkquartet.github.io/zh/tag/Physics/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/research/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Research/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/research/"
+                href="https://quarkquartet.github.io/en/tag/Research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/research/"
+                href="https://quarkquartet.github.io/zh/tag/Research/"
                 />
   </url><url>
     <loc>https://quarkquartet.github.io/zh/tag/Rumor-Mill/</loc>
@@ -644,7 +684,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/publication-type/2/"
+                href="https://quarkquartet.github.io/en/publication-type/2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -658,7 +698,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/publication/Parity_EWBG/"
+                href="https://quarkquartet.github.io/en/publication/Parity_EWBG/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -666,32 +706,32 @@
                 href="https://quarkquartet.github.io/zh/publication/Parity_EWBG/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/Higgs-stability/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Higgs-Stability/</loc>
     <lastmod>2022-10-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/Higgs-stability/"
+                href="https://quarkquartet.github.io/en/tag/Higgs-Stability/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/Higgs-stability/"
+                href="https://quarkquartet.github.io/zh/tag/Higgs-Stability/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/running-coupling/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Running-Coupling/</loc>
     <lastmod>2022-10-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/running-coupling/"
+                href="https://quarkquartet.github.io/en/tag/Running-Coupling/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/running-coupling/"
+                href="https://quarkquartet.github.io/zh/tag/Running-Coupling/"
                 />
   </url><url>
     <loc>https://quarkquartet.github.io/zh/</loc>
@@ -700,7 +740,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/"
+                href="https://quarkquartet.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -714,7 +754,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/publication/dark_photon_MUonE/"
+                href="https://quarkquartet.github.io/en/publication/dark_photon_MUonE/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -722,18 +762,18 @@
                 href="https://quarkquartet.github.io/zh/publication/dark_photon_MUonE/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/displaced-vertex/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Displaced-Vertex/</loc>
     <lastmod>2022-02-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/displaced-vertex/"
+                href="https://quarkquartet.github.io/en/tag/Displaced-Vertex/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/displaced-vertex/"
+                href="https://quarkquartet.github.io/zh/tag/Displaced-Vertex/"
                 />
   </url><url>
     <loc>https://quarkquartet.github.io/zh/tag/MUonE/</loc>
@@ -742,7 +782,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/MUonE/"
+                href="https://quarkquartet.github.io/en/tag/MUonE/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -750,18 +790,18 @@
                 href="https://quarkquartet.github.io/zh/tag/MUonE/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/visible-decay/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Visible-Decay/</loc>
     <lastmod>2022-02-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/visible-decay/"
+                href="https://quarkquartet.github.io/en/tag/Visible-Decay/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/visible-decay/"
+                href="https://quarkquartet.github.io/zh/tag/Visible-Decay/"
                 />
   </url><url>
     <loc>https://quarkquartet.github.io/zh/publication/Axiogenesis_SU2R/</loc>
@@ -770,7 +810,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/publication/Axiogenesis_SU2R/"
+                href="https://quarkquartet.github.io/en/publication/Axiogenesis_SU2R/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -778,18 +818,18 @@
                 href="https://quarkquartet.github.io/zh/publication/Axiogenesis_SU2R/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/CKM-matrix/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/CKM-Matrix/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/CKM-matrix/"
+                href="https://quarkquartet.github.io/en/tag/CKM-Matrix/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/CKM-matrix/"
+                href="https://quarkquartet.github.io/zh/tag/CKM-Matrix/"
                 />
   </url><url>
     <loc>https://quarkquartet.github.io/zh/publication/EWBG_chiral_matter/</loc>
@@ -798,7 +838,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/publication/EWBG_chiral_matter/"
+                href="https://quarkquartet.github.io/en/publication/EWBG_chiral_matter/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -806,32 +846,32 @@
                 href="https://quarkquartet.github.io/zh/publication/EWBG_chiral_matter/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/non-local-baryogenesis/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Non-Local-Baryogenesis/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/non-local-baryogenesis/"
+                href="https://quarkquartet.github.io/en/tag/Non-Local-Baryogenesis/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/non-local-baryogenesis/"
+                href="https://quarkquartet.github.io/zh/tag/Non-Local-Baryogenesis/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/tag/quasiparticle/</loc>
+    <loc>https://quarkquartet.github.io/zh/tag/Quasiparticle/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/tag/quasiparticle/"
+                href="https://quarkquartet.github.io/en/tag/Quasiparticle/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/tag/quasiparticle/"
+                href="https://quarkquartet.github.io/zh/tag/Quasiparticle/"
                 />
   </url><url>
     <loc>https://quarkquartet.github.io/zh/slides/</loc>
@@ -840,7 +880,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/slides/"
+                href="https://quarkquartet.github.io/en/slides/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -854,7 +894,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/slides/example/"
+                href="https://quarkquartet.github.io/en/slides/example/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -868,7 +908,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/contact/"
+                href="https://quarkquartet.github.io/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -882,7 +922,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/research/"
+                href="https://quarkquartet.github.io/en/research/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -895,7 +935,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/categories/"
+                href="https://quarkquartet.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -908,7 +948,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://quarkquartet.github.io/blogs/"
+                href="https://quarkquartet.github.io/en/blogs/"
                 />
     <xhtml:link
                 rel="alternate"
