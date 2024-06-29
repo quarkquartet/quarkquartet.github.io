@@ -1,0 +1,1407 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: 2024年6月29日 --><html lang="zh-Hans" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.83a19d786d5f5ee5d4725e6ce745bf6d.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="王若泉" />
+
+
+
+
+
+  
+
+<meta name="description" content="电子对撞机主要是因为伴生粒子会带走一部分能量，而且并不需要真的把对撞能量提高到TeV。强子对撞机是因为beam remnant的能量损失，以及可能的伴生粒子，以及为了探测和排除背景的需要，我们需要把能量提的很高，达到TeV的数量级。" />
+
+
+
+<link rel="alternate" hreflang="zh-Hans" href="https://quarkquartet.github.io/zh/post/collider_Higgs_energy/" />
+<link rel="canonical" href="https://quarkquartet.github.io/zh/post/collider_Higgs_energy/" />
+
+
+
+  <link rel="manifest" href="/zh/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu9fe4af0edb92d3e40e98501fc4baa281_1731920_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu9fe4af0edb92d3e40e98501fc4baa281_1731920_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary_large_image" />
+
+  <meta property="twitter:site" content="@wowchemy" />
+  <meta property="twitter:creator" content="@wowchemy" />
+<meta property="twitter:image" content="https://quarkquartet.github.io/zh/post/collider_Higgs_energy/featured.jpg" />
+
+
+
+  
+
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="夸克四重奏" />
+<meta property="og:url" content="https://quarkquartet.github.io/zh/post/collider_Higgs_energy/" />
+<meta property="og:title" content="希格斯只有125GeV, 为什么需要TeV级别的对撞机才能发现？ | 夸克四重奏" />
+<meta property="og:description" content="电子对撞机主要是因为伴生粒子会带走一部分能量，而且并不需要真的把对撞能量提高到TeV。强子对撞机是因为beam remnant的能量损失，以及可能的伴生粒子，以及为了探测和排除背景的需要，我们需要把能量提的很高，达到TeV的数量级。" /><meta property="og:image" content="https://quarkquartet.github.io/zh/post/collider_Higgs_energy/featured.jpg" /><meta property="og:locale" content="zh-Hans" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2024-04-25T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2024-04-25T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://quarkquartet.github.io/zh/post/collider_Higgs_energy/"
+  },
+  "headline": "希格斯只有125GeV, 为什么需要TeV级别的对撞机才能发现？",
+  
+  "image": [
+    "https://quarkquartet.github.io/zh/post/collider_Higgs_energy/featured.jpg"
+  ],
+  
+  "datePublished": "2024-04-25T00:00:00Z",
+  "dateModified": "2024-04-25T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "王若泉"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "夸克四重奏",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://quarkquartet.github.io/media/icon_hu9fe4af0edb92d3e40e98501fc4baa281_1731920_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "电子对撞机主要是因为伴生粒子会带走一部分能量，而且并不需要真的把对撞能量提高到TeV。强子对撞机是因为beam remnant的能量损失，以及可能的伴生粒子，以及为了探测和排除背景的需要，我们需要把能量提的很高，达到TeV的数量级。"
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>希格斯只有125GeV, 为什么需要TeV级别的对撞机才能发现？ | 夸克四重奏</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="036d384b30db3cc79472578db4fd7b49" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.92633a219ad78ae82da32b916d6b3338.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>搜索</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="搜索..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="搜索...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/zh/">夸克四重奏</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="切换导航">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/zh/">夸克四重奏</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/zh/#about"><span>关于我</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/zh/research/"><span>研究方向</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/zh/blogs"><span>博客文章</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/zh/contact/"><span>联系方式</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/uploads/resume.pdf"><span>简历</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="搜索"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>浅色</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>深色</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>自动</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>希格斯只有125GeV, 为什么需要TeV级别的对撞机才能发现？</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      王若泉</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    4月 25, 2024
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    6 分钟阅读时长
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>原问题首发于知乎。</p>
+<a href="https://www.zhihu.com/question/482546083/answer/3478837187" target="_blank" rel="noopener noreffer"  class="card-link">
+    <span class="card-link-backdrop"></span>
+    <span class="card-link-content">
+        <span class="card-link-text">
+            <span class="card-link-title">希格斯粒子只有GeV，为什么在能做到TeV的时候才发现？ - Isaac Wang的回答 - 知乎</span>
+            <span class="card-link-meta">
+                <span class="card-link-url">
+                    <svg class="Zi Zi--InsertLink" fill="currentColor" viewbox="0 0 24 24" width="17" height="17">
+                        <path d="M6.77 17.23c-.905-.904-.94-2.333-.08-3.193l3.059-3.06-1.192-1.19-3.059 3.058c-1.489 1.489-1.427 3.954.138 5.519s4.03 1.627 5.519.138l3.059-3.059-1.192-1.192-3.059 3.06c-.86.86-2.289.824-3.193-.08zm3.016-8.673l1.192 1.192 3.059-3.06c.86-.86 2.289-.824 3.193.08.905.905.94 2.334.08 3.194l-3.059 3.06 1.192 1.19 3.059-3.058c1.489-1.489 1.427-3.954-.138-5.519s-4.03-1.627-5.519-.138L9.786 8.557zm-1.023 6.68c.33.33.863.343 1.177.029l5.34-5.34c.314-.314.3-.846-.03-1.176-.33-.33-.862-.344-1.176-.03l-5.34 5.34c-.314.314-.3.846.03 1.177z" fill-rule="evenodd"></path>
+                    </svg>
+                </span>
+                https://www.zhihu.com/question/482546083/answer/3478837187
+            </span>
+        </span>
+        <span class="card-link-imageCell">
+                <img class="card-link-image" alt="card-link icon" src="featured.jpg" />
+            
+            
+        </span>
+    </span>
+</a>
+<p>问题三年了，恕我直言，现有答案大部分都有可取之处，但是没有很全面的。这是个很好的问题，牵扯到对撞机的设计逻辑和粒子产生过程，很值得回答一下。</p>
+<p>要讨论究竟需要多高能量的对撞机，首先要讨论我们想要哪种Higgs的产生过程。而人类目前能用来制造对撞机的束流粒子只有电子和质子（重核不算）。所以我们需要看一下两种对撞机分别有什么优劣势。</p>
+<p>先看电子对撞机。如果按照问题的思路，能否在能量勉强到达Higgs质量的时候就能产生Higgs?理论上可以。但是</p>
+<p>的过程在质心系中分析不难发现，由于质心系总初始动量为0，则产生的higgs动量也为0。由能量守恒可知，此时Higgs的质量必须严格等于初始能量，差一丝都不行（有偏差就得有其他的粒子带走能量动量）。这在实验上是不可能实现的，尤其是Higgs尚未发现的时候。即便允许有伴生粒子产生，如果能量仅仅略高于Higgs的质量，产生Higgs的散射截面也会非常小（受到相空间的限制），很难真的在实验上发现。</p>
+<p>但有一点是可以肯定的，那就是如果用电子对撞机制造Higgs，需要的能量必然不至于要到TeV的数量级。二十多年前的LEP就已经把Higgs的质量下限给到了114.4GeV[1]，距离最后真正的Higgs质量已经只差一点点了。当时LEP的质心系能量不过206GeV而已。现在提出的CEPC的方案，目标是产生海量的Higgs从而进行更精确的测量，质心系能量也就是240GeV。可见，如果是用电子进行对撞，其实不需要那么高的能量，也可以产生很多Higgs，只不过能量下限不可能卡在Higgs质量附近，还是要高一些，差不多要2倍左右，才能保证一个比较大的散射截面。</p>
+<p>这里的另一个考虑是测量方式。电子对撞机的特点是初始状态完全确定。对于两个粒子的末态, 例如
+的过程，只要能测出 的能量动量，根据守恒定律即可立即知道 的特点。这种测量方式叫recoil，优势是不依赖于目标粒子(这里是Higgs)的衰变模式。但相应的，要测量 ，就得要求</p>
+<p>的动量比较高，否则探测器检测不到。因此碰撞总能量必然要高于Higgs的质量，起码要留足空间给另外的粒子。可以做recoil是电子对撞机相对强子对撞机的一大优势。例如在对extra scalar的搜寻中，在不少参数空间下，LEP依然比最新的LHC有更高的精确度，哪怕已经过了二三十年。</p>
+<p>再反过来看强子对撞机。这里借用一下 <a href="https://www.zhihu.com/people/5c41443227394160b4626e2bb42a7ea0" target="_blank" rel="noopener">知乎用户@Natrium</a> 的图。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-higgs在lhc上的各种产生过程">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Higgs在LHC上的各种产生过程" srcset="
+               /zh/post/collider_Higgs_energy/featured_hu72df6ed3c7db49d00e531bee28d05d19_10804_2e179b65efde027250a3e3fb77572af7.webp 400w,
+               /zh/post/collider_Higgs_energy/featured_hu72df6ed3c7db49d00e531bee28d05d19_10804_4e9fb958323b3ba06828630d5697f152.webp 760w,
+               /zh/post/collider_Higgs_energy/featured_hu72df6ed3c7db49d00e531bee28d05d19_10804_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/zh/post/collider_Higgs_energy/featured_hu72df6ed3c7db49d00e531bee28d05d19_10804_2e179b65efde027250a3e3fb77572af7.webp"
+               width="700"
+               height="271"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Higgs在LHC上的各种产生过程
+    </figcaption></figure>
+
+<p>图里是强子对撞机上产生Higgs的主要途径，由图可知初态粒子是胶子或者夸克，而不是质子。强子对撞机和电子对撞机最大的不同是质子不是点粒子。质子是复合粒子，里面有夸克和胶子。对撞时，是里面具体的成分粒子发生碰撞，其余的粒子很大概率没有发生碰撞，就直接走掉了。这部分没有碰撞的叫做beam remnant。这个remnant才是强子对撞机上最大的能量损失。</p>
+<p>以上图中左上角过程为例。这是LHC上产生Higgs的主要途径，叫做gluon fusion。此过程是初态两个质子分别贡献一个胶子进行碰撞，直接产生Higgs。因为胶子的动量不是一个定值而是概率分布（对于给定的质子动量，其组成成分的粒子动量遵循一个概率分布，叫做parton distribution function, PDF)，所以总可以有胶子动量刚好可以产生一个Higgs而不附带其他产物。这个过程本身不一定有伴生粒子（主要取决于gluon从哪来。如果直接来自于质子，则没有伴生粒子。如果是两个质子分别贡献夸克，夸克再产生t-channel的虚拟胶子然后再fusion，则有伴生粒子）。但无论那种情况，最大的能量损失都是因为巨大的质子能量中只有具体去碰撞的那一个成分才参与higgs的产生，其余都浪费掉了。</p>
+<p>另一个重要的问题是观测。由上文所述，参与碰撞的夸克或者胶子的初始动量并不确定，因此我们无法通过recoil的方式去测量higgs，只能直接测量higgs本身的衰变产物。这就要求产生的Higgs拥有很高的动量，方便探测器去捕捉。这样对能量的要求就又上了一个台阶。同样，由于质子是复合粒子且参与强相互作用，强子对撞机上能产生的过程过于复杂，有大量的已知标准模型的其他过程可能和Higgs有相同的末态，这部分叫做背景。如果higgs的动量低，很容易淹没在大量的背景中，因此我们必须提高Higgs的动量，才能让他脱颖而出，我们才能发现他。</p>
+<p>综上我们已经讨论了分别电子和强子对撞机为什么需要比较高的能量才能产生并捕捉Higgs。电子对撞机主要是为了伴生粒子，而且并不需要真的把对撞能量提高到TeV。强子对撞机是因为beam remnant的能量损失，以及可能的伴生粒子，以及为了探测和排除背景的需要，我们需要把能量提的很高，达到TeV的数量级。</p>
+<p>那么下一个问题就是，既然电子对撞机的能量要求这么低，测量又方便，为什么选择建强子对撞机？</p>
+<p>答案是，电子对撞机提升能量太tm难了！</p>
+<p>LEP距离Higgs就差临门一脚了，怎么不提升能量了，是不想吗？人家真尽力了，条件就在那里，没法提了。</p>
+<p>主要原因就是同步辐射。带电粒子被加速的时候，通过电磁场同步辐射损失能量。这个损失和质量点四次方成反比！而电子的质量只有质子的1836分之一，那么毫无疑问，电子能量每提升一点点都要付出巨大的努力。这也就是为什么CEPC的设计大小比LEP大那么多，质心系能量才从206GeV提升到240GeV的理由。</p>
+<p>回到LHC设计的时候，人们当初并不知道Higgs的质量究竟是多少。为了发现Higgs，必须冲着对撞机领域当时能造出的最高能量去。出于这个考虑，同步辐射损失更少的质子对撞机就成为了首选。最终结果我们也都看到了，LHC不负众望，不但发现了Higgs，还在过去十几年里附带排除了一大批假想的理论模型。</p>
+<p>总结起来，质子vs电子的争论，无外乎想要更高的能量还是更干净的背景。从发现更高能量粒子的角度讲，质子对撞机大部分时候比电子划算。beam remnant的能量损失远远比不上同步辐射对加速的负面影响。而为了精确测量一些已经发现的粒子，或者探索一些质量不太高但相互作用极端微弱的粒子，背景更干净的电子对撞机或者其他类型的加速器实验(比如muon beam fixed target)会是更好的选择。而一旦选择了质子对撞机去发现新粒子，那么由于之前讨论过的各类能量损失，设计能量就必须远远高于目标粒子的质量。这也就是为什么发现125GeV的Higgs需要用到几个TeV的质子对撞机的理由。</p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/zh/tag/%E7%89%A9%E7%90%86/">物理</a>
+  
+  <a class="badge badge-light" href="/zh/tag/Higgs/">Higgs</a>
+  
+  <a class="badge badge-light" href="/zh/tag/%E5%B8%8C%E6%A0%BC%E6%96%AF/">希格斯</a>
+  
+  <a class="badge badge-light" href="/zh/tag/%E5%AF%B9%E6%92%9E%E6%9C%BA/">对撞机</a>
+  
+  <a class="badge badge-light" href="/zh/tag/Collider/">Collider</a>
+  
+  <a class="badge badge-light" href="/zh/tag/%E7%94%B5%E5%AD%90%E5%AF%B9%E6%92%9E%E6%9C%BA/">电子对撞机</a>
+  
+  <a class="badge badge-light" href="/zh/tag/%E5%BC%BA%E5%AD%90%E5%AF%B9%E6%92%9E%E6%9C%BA/">强子对撞机</a>
+  
+  <a class="badge badge-light" href="/zh/tag/LHC/">LHC</a>
+  
+  <a class="badge badge-light" href="/zh/tag/LEP/">LEP</a>
+  
+  <a class="badge badge-light" href="/zh/tag/CEPC/">CEPC</a>
+  
+  <a class="badge badge-light" href="/zh/tag/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/">学术研究</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fquarkquartet.github.io%2Fzh%2Fpost%2Fcollider_Higgs_energy%2F&amp;text=%E5%B8%8C%E6%A0%BC%E6%96%AF%E5%8F%AA%E6%9C%89125GeV%2C&#43;%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81TeV%E7%BA%A7%E5%88%AB%E7%9A%84%E5%AF%B9%E6%92%9E%E6%9C%BA%E6%89%8D%E8%83%BD%E5%8F%91%E7%8E%B0%EF%BC%9F" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fquarkquartet.github.io%2Fzh%2Fpost%2Fcollider_Higgs_energy%2F&amp;t=%E5%B8%8C%E6%A0%BC%E6%96%AF%E5%8F%AA%E6%9C%89125GeV%2C&#43;%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81TeV%E7%BA%A7%E5%88%AB%E7%9A%84%E5%AF%B9%E6%92%9E%E6%9C%BA%E6%89%8D%E8%83%BD%E5%8F%91%E7%8E%B0%EF%BC%9F" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=%E5%B8%8C%E6%A0%BC%E6%96%AF%E5%8F%AA%E6%9C%89125GeV%2C%20%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81TeV%E7%BA%A7%E5%88%AB%E7%9A%84%E5%AF%B9%E6%92%9E%E6%9C%BA%E6%89%8D%E8%83%BD%E5%8F%91%E7%8E%B0%EF%BC%9F&amp;body=https%3A%2F%2Fquarkquartet.github.io%2Fzh%2Fpost%2Fcollider_Higgs_energy%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fquarkquartet.github.io%2Fzh%2Fpost%2Fcollider_Higgs_energy%2F&amp;title=%E5%B8%8C%E6%A0%BC%E6%96%AF%E5%8F%AA%E6%9C%89125GeV%2C&#43;%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81TeV%E7%BA%A7%E5%88%AB%E7%9A%84%E5%AF%B9%E6%92%9E%E6%9C%BA%E6%89%8D%E8%83%BD%E5%8F%91%E7%8E%B0%EF%BC%9F" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=%E5%B8%8C%E6%A0%BC%E6%96%AF%E5%8F%AA%E6%9C%89125GeV%2C&#43;%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81TeV%E7%BA%A7%E5%88%AB%E7%9A%84%E5%AF%B9%E6%92%9E%E6%9C%BA%E6%89%8D%E8%83%BD%E5%8F%91%E7%8E%B0%EF%BC%9F%20https%3A%2F%2Fquarkquartet.github.io%2Fzh%2Fpost%2Fcollider_Higgs_energy%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fquarkquartet.github.io%2Fzh%2Fpost%2Fcollider_Higgs_energy%2F&amp;title=%E5%B8%8C%E6%A0%BC%E6%96%AF%E5%8F%AA%E6%9C%89125GeV%2C&#43;%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81TeV%E7%BA%A7%E5%88%AB%E7%9A%84%E5%AF%B9%E6%92%9E%E6%9C%BA%E6%89%8D%E8%83%BD%E5%8F%91%E7%8E%B0%EF%BC%9F" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://quarkquartet.github.io/"><img class="avatar mr-3 avatar-circle" src="/zh/authors/admin/avatar_hu187e14330230d618453c1f524db88fe3_4525540_270x270_fill_q75_lanczos_center.jpeg" alt="王若泉"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://quarkquartet.github.io/">王若泉</a></h5>
+      <h6 class="card-subtitle">博士后研究员</h6>
+      <p class="card-text">博士后研究员，粒子物理与宇宙学理论。音乐和体育爱好者。Neo-liberalism.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:isaac.wang.us@gmail.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/quarkquartet" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/quarkquartet" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/uploads/resume.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2023 Isaac Wang.
+  </p>
+  
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+        
+        
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.391d344a129df56f7ad674c2c2ed04e8.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/zh/js/wowchemy.min.92c402d94b9ffe78a1e12b9d79c6462a.js"></script>
+
+
+
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">引用</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> 复制
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> 下载
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
