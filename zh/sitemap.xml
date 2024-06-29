@@ -364,20 +364,6 @@
                 href="https://quarkquartet.github.io/zh/project/DM-mediator/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/publication-type/3/</loc>
-    <lastmod>2023-12-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://quarkquartet.github.io/en/publication-type/3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/publication-type/3/"
-                />
-  </url><url>
     <loc>https://quarkquartet.github.io/zh/tag/Boltzmann-Equation/</loc>
     <lastmod>2023-12-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -432,20 +418,6 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="https://quarkquartet.github.io/zh/tag/Neutrino/"
-                />
-  </url><url>
-    <loc>https://quarkquartet.github.io/zh/publication_types/</loc>
-    <lastmod>2023-12-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://quarkquartet.github.io/en/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/publication_types/"
                 />
   </url><url>
     <loc>https://quarkquartet.github.io/zh/publication/</loc>
@@ -794,20 +766,6 @@
     <lastmod>2023-05-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://quarkquartet.github.io/zh/publication-type/2/</loc>
-    <lastmod>2022-10-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://quarkquartet.github.io/en/publication-type/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/publication-type/2/"
-                />
-  </url><url>
     <loc>https://quarkquartet.github.io/zh/publication/Parity_EWBG/</loc>
     <lastmod>2022-10-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1070,6 +1028,19 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="https://quarkquartet.github.io/zh/blogs/"
+                />
+  </url><url>
+    <loc>https://quarkquartet.github.io/zh/publication_types/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/publication_types/"
                 />
   </url>
 </urlset>
