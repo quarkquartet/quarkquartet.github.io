@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tactics | 夸克四重奏</title>
+    <link>https://quarkquartet.github.io/zh/tag/Tactics/</link>
+      <atom:link href="https://quarkquartet.github.io/zh/tag/Tactics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tactics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 21 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://quarkquartet.github.io/media/icon_hu9fe4af0edb92d3e40e98501fc4baa281_1731920_512x512_fill_lanczos_center_3.png</url>
+      <title>Tactics</title>
+      <link>https://quarkquartet.github.io/zh/tag/Tactics/</link>
+    </image>
+    
+    <item>
+      <title>詹姆斯的球商高在哪里？：从伦敦奥运决赛分析</title>
+      <link>https://quarkquartet.github.io/zh/post/James_IQ_zhihu/</link>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/zh/post/James_IQ_zhihu/</guid>
+      <description>&lt;p&gt;本文首发于知乎。&lt;/p&gt;
+&lt;a href=&#34;https://www.zhihu.com/question/65518861/answer/3222040031&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;  class=&#34;card-link&#34;&gt;
+    &lt;span class=&#34;card-link-backdrop&#34;&gt;&lt;/span&gt;
+    &lt;span class=&#34;card-link-content&#34;&gt;
+        &lt;span class=&#34;card-link-text&#34;&gt;
+            &lt;span class=&#34;card-link-title&#34;&gt;詹姆斯的球商到底高在哪里？- QuarkQuartet的回答&lt;/span&gt;
+            &lt;span class=&#34;card-link-meta&#34;&gt;
+                &lt;span class=&#34;card-link-url&#34;&gt;
+                    &lt;svg class=&#34;Zi Zi--InsertLink&#34; fill=&#34;currentColor&#34; viewbox=&#34;0 0 24 24&#34; width=&#34;17&#34; height=&#34;17&#34;&gt;
+                        &lt;path d=&#34;M6.77 17.23c-.905-.904-.94-2.333-.08-3.193l3.059-3.06-1.192-1.19-3.059 3.058c-1.489 1.489-1.427 3.954.138 5.519s4.03 1.627 5.519.138l3.059-3.059-1.192-1.192-3.059 3.06c-.86.86-2.289.824-3.193-.08zm3.016-8.673l1.192 1.192 3.059-3.06c.86-.86 2.289-.824 3.193.08.905.905.94 2.334.08 3.194l-3.059 3.06 1.192 1.19 3.059-3.058c1.489-1.489 1.427-3.954-.138-5.519s-4.03-1.627-5.519-.138L9.786 8.557zm-1.023 6.68c.33.33.863.343 1.177.029l5.34-5.34c.314-.314.3-.846-.03-1.176-.33-.33-.862-.344-1.176-.03l-5.34 5.34c-.314.314-.3.846.03 1.177z&#34; fill-rule=&#34;evenodd&#34;&gt;&lt;/path&gt;
+                    &lt;/svg&gt;
+                &lt;/span&gt;
+                https://www.zhihu.com/question/65518861/answer/3222040031
+            &lt;/span&gt;
+        &lt;/span&gt;
+        &lt;span class=&#34;card-link-imageCell&#34;&gt;
+                &lt;img class=&#34;card-link-image&#34; alt=&#34;card-link icon&#34; src=&#34;https://www.google.com/s2/favicons?domain=https://www.zhihu.com/question/65518861/answer/3222040031&#34; /&gt;
+            
+            
+        &lt;/span&gt;
+    &lt;/span&gt;
+&lt;/a&gt;
+&lt;h2 id=&#34;引言&#34;&gt;引言&lt;/h2&gt;
+&lt;p&gt;多图预警。&lt;/p&gt;
+&lt;p&gt;这是我第一次公开写球评。鉴于知乎逢詹必反但毫无逻辑的现实，实在是忍不住想仔细写写。也希望所有黑子们搞清楚一件事情：看球是个烧脑的活，并且和其他事情一样讲究实事求是。如果看不清场上发生了什么就来大放厥词，丢的是自己的人。&lt;/p&gt;
+&lt;p&gt;看球商，NBA的比赛其实远没有FIBA的比赛体现的那么明显。一是FIBA的规则和场地对单挑不利（尤其是外线单挑手），二是FIBA单场淘汰+时间短，高水平比赛必然会球球拼细节和战术。相比之下，NBA超长的比赛时间和场次使得每场球都有不少时间就像是在打野球。&lt;/p&gt;
+&lt;p&gt;这两天抽空回顾了伦敦奥运会决赛美国对阵西班牙的完整录像，可以算是很好的一个例子。恰好大家已经说了不少NBA的例子，这里也算是一个补充。当然这场球能反映的东西也远远不止球商这么简单（毕竟球赛不仅仅是球商）。&lt;/p&gt;
+&lt;p&gt;先上总结：只谈美国队，不算分别只打了1,1,3分钟的大胡子、大眉毛和一哥，&lt;strong&gt;智商最高的一档是詹姆斯和保罗&lt;/strong&gt;，最低断层一档是威斯布鲁克，其余人在中间水平，相互有差距但不是很大。我不希望写过多的篇幅去解读每一个回合，只谈几个具体的例子，展示一下如何评价一个球员的攻防球商。按照这一套评判方式，读者可以自行研读剩余所有的回合。&lt;/p&gt;
+&lt;p&gt;总的来说，球员的球商可以从两个角度去评判：&lt;strong&gt;对具体战术的理解，以及对大局的理解&lt;/strong&gt;。无论哪一点，评判的时候都离不开战场形势。很多球员只具备其中一方面的能力，典型的例子就是莱昂纳德。得益于角色球员的经历，他练就了极强的跑位意识，你几乎看不到他跑错进攻战术或者防守时判断错误，但控场这个词从来就和他没关系。&lt;/p&gt;
+&lt;p&gt;而詹姆斯最强的一点则在于, &lt;strong&gt;他在这两方面都是顶级水平，同时具有顶尖的身体天赋和技术帮助他在球场上贯彻自己的策略&lt;/strong&gt;。而在这场世界最高舞台的对决里，詹姆斯则将自己的能力完全发挥了出来。具体体现在：顶级的组织进攻、合理的无球跑动、顶级的防守站位，以及对比赛节奏的掌握。&lt;/p&gt;
+&lt;p&gt;注：这场球詹姆斯和保罗进攻端分工非常类似，两人同场时也经常轮流操作另一人休息，因此以下对詹姆斯的评价大部分也适用于保罗。&lt;/p&gt;
+&lt;h2 id=&#34;第一点什么叫组织进攻&#34;&gt;第一点，什么叫组织进攻？&lt;/h2&gt;
+&lt;p&gt;组织进攻就是根据对方的防守阵型，安排己方此次回合的进攻战术。指挥队友跑位，同时支配球，使得战术在运行顺利的时候球交给出机会的人，或者给负责过渡的人。组织进攻是最考验组织者或者说球权支配者对战术的理解的。&lt;/p&gt;
+&lt;p&gt;看下面几个回合。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图1&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图1&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/1.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图1
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图1：经典3-2站位破2-3联防，詹姆斯弧顶一侧持球，大范围横传找侧翼杜兰特，随后自己切入，可惜上篮手滑了。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图2&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图2&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/2.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图2
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图2：常规操作，底角捡到篮板，然后迅速看到了快下的杜兰特，并用一个精准的长传把球喂到被夹击的杜兰特手里。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图3&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图3&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/3.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图3
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图3：还是3-2站位破2-3联防，詹姆斯冲进去吸引了3个人，然后在空中找到了身后大空位的安东尼。&lt;/p&gt;
+&lt;p&gt;这三个都来自开场前半节。这些操作看上去似乎都很基础没有什么难度。但可以明确的一点是：&lt;strong&gt;詹姆斯在这支球队扮演的是场上决策处理的大脑（还有保罗），负责分配球&lt;/strong&gt;。这场球，美国队首先是詹姆斯和保罗轮流组织，二者之一不在时，会考虑其他球员。按观察，组织权接替顺序为科比-德隆。&lt;/p&gt;
+&lt;p&gt;这里提一句，西班牙也是心大，开场完全无视杜兰特的投射，坚决守联防，杜兰特被放的不大量投三分都不好意思了。最后他全场扔了13个三分球，大部分是联防放出来的。中5个，中规中矩。&lt;/p&gt;
+&lt;p&gt;再往下看。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图4&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图4&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/4.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图4
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图4：西班牙下半场，开局改盯防，试图利用FIBA规则利于护框且己方内线高大的特点保护后卫群，同时增加对无球射手的追击（可能被杜兰特扔疼了）。相比联防更加依赖起手式的站位和导球来破解，&lt;strong&gt;破解单防更依赖局部破坏，以单挑、挡拆、无球掩护、绕跑为基础&lt;/strong&gt;。这个回合，詹姆斯推进中看到对方竟然主动给出小后卫贴防上上线，主动选择背身单吃，召唤保罗给自己递个球，然后吸引夹击分保罗大空位命中。第一个破解西班牙单防的回合，詹姆斯给出了明确的回应。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图5&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图5&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/5.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图5
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图5：考验单挑是吧，直接突破得手。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图6&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图6&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/6.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图6
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图6：一直单挑太累？来，牛角位组织，做个手递手，顺带把纳瓦罗挡的结结实实，给杜兰特一个大空位。即上文说的挡拆、无球掩护、绕跑。&lt;/p&gt;
+&lt;p&gt;注意看这里的细节，詹姆斯拿球的时候回头示意杜兰特来打这个战术。另一边保罗交球之后立即跑去左侧和队友交流组织了弱侧的三人转，如果詹杜那边没出机会，詹还可以立即寻找弱侧的下一波机会。&lt;/p&gt;
+&lt;p&gt;如果你觉得这些工作太简单，那看看一些尴尬的回合。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图7&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图7&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/7.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图7
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图8&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图8&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/8.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图8
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图9&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图9&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/9.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图9
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;图7：对付联防，詹姆斯不在，杜兰特借掩护兜出，弧顶打发起。我没记错的话应该是全场唯一一次杜兰特弧顶打发起，以接球后0次传球自己顶人干拔打铁告终。这回合他接球之后至少出现了两次机会：乐福掩护外拆、安东尼借乐福下顺获得空位，他都没有看见。乐福：mmp。&lt;/p&gt;
+&lt;p&gt;顺带说一句，乐福也是个篮球智商达人，这场球表现可圈可点。&lt;/p&gt;
+&lt;p&gt;以及这球威斯布鲁克位置站错了。他应该往底角移动，站在45度不动就把队友机会压缩了。&lt;/p&gt;
+&lt;p&gt;图8：对付盯防，科比弧顶打挡拆，经典冲入人堆跳起传球找不到队友送反击。&lt;/p&gt;
+&lt;p&gt;不对啊，不是说詹姆斯喜欢送无脑失误么？&lt;/p&gt;
+&lt;p&gt;这场球詹姆斯总共就1个失误，还是弧顶做简单导球时漫不经心送的，跟篮球智商和判断没啥关系。倒是助攻4个全队最高。&lt;/p&gt;
+&lt;p&gt;当然也没有怪科比的意思。这场球科比打挡拆发起也打了一些回合，大部分效果相当不错，有失误在所难免。实际上这球之前科比已经阵地战连续发动进攻两次都成功了。整体上我认为科比是这场球做进攻组织表现队内第三的球员，组织方面功远大于过。&lt;/p&gt;
+&lt;p&gt;图9：威斯布鲁克和乐福挡拆，呵呵呵。&lt;/p&gt;
+&lt;p&gt;回到问题，詹姆斯的篮球智商高在哪？远远高的组织进攻次数，一次这种回合都没有。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;组织者的工作大部分时候是很不起眼的，但他是球场上最重要最基础的部分&lt;/strong&gt;。组织者让进攻有条不紊的进行的时候，往往球迷不会看这些工作，而是更多关注在出手的那个人身上。实际上，进攻的组织才是这一切的前提，而组织往往都是看上去朴实无华的动作。只有缺少组织者的时候，球迷才会发现球队怎么进攻突然便秘了。&lt;/p&gt;
+&lt;p&gt;正是这些最基本又不起眼的工作，构成了组织核心的大部分工作内容，也是篮球智商最佳的体现之一。动手数一数这场球美国队的进攻回合，你会感叹詹姆斯组织进攻时做决策之高效准确，一直在用最简单的方式做最正确的事情。把简单的事情做好并且一直持续，就是不简单。&lt;/p&gt;
+&lt;h2 id=&#34;第二什么样的无球跑位是好的无球跑位&#34;&gt;第二，什么样的无球跑位是好的无球跑位？&lt;/h2&gt;
+&lt;p&gt;经常听到球迷抱怨xxxx无球就不跑位，进而得出“毒瘤”、“懒散”、“球霸”的结论。这种抱怨常见于所谓“持球大核心”身上，比如哈登、东契奇这种胖子选手。&lt;/p&gt;
+&lt;p&gt;这种论点的问题在于，把无球的好坏等同于跑位的距离。当然，大量跑位的球员都是顶级的无球进攻手，比如克莱汤普森。但是这不代表无球站定了就不对。跑位是要看目的的。比如勇士球迷引以为豪的团队篮球里，你可以看看汤普森跑位的时候其余人在干什么。除了拿球的格林或者库里以外，其余人都在不停的跑么？显然不是，大部分人其实就是站定了的，为了给汤普森顶级的跑位拉出空间。大部分情况下对于大部分无球人，任务就是站在那里不动，让你的防守人罚站，不要去协防你的队友。此时瞎跑位还不如不跑位。&lt;/p&gt;
+&lt;p&gt;真正好的无球是：需要站着就站着，需要跑就跑，需要卡位就卡位，哪里需要人就去哪里，哪里不需要人就避开哪里。换句话说，看清楚战术，考虑清楚目的和分工，然后进行落位/跑位。绕跑只是无球的一部分，做出上面的判断才是无球的核心。而这又是体现篮球智商的东西。&lt;/p&gt;
+&lt;p&gt;而这些行为，比起上面说的组织进攻，更加难以注意，也更接近于“善战者无赫赫之功”。&lt;/p&gt;
+&lt;p&gt;出于角色定位，詹姆斯精彩的无球跑动偏少，但绝不是没有。实际上詹姆斯作为一个前锋，打切入、掩护、快下是他的基本功。比如下面的回合。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图10&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图10&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/10.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图10
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图10：西班牙站联防，詹姆斯交球之后找机会切入，获得了一个篮下的空位，把5号费尔南德斯往禁区带了两步，同时吸引了7号纳瓦罗的注意力。纳瓦罗原本镇守弧顶随时协防保罗，被带走。费尔南德斯则推迟了轮转防守科比的意图，先跟詹姆斯走了两步。这一步如果詹姆斯拿到球，则直接站在中轴位置。进可攻框，退可转移保罗科比杜兰特的大空位。可惜安东尼被罩住没有传出来。当然这个球运气不错，巅进去了。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图11&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图11&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/11.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图11
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图11：交球给杜兰特打挡拆，自己往外拉，试图拉走加索尔给杜兰特制造空间。但加索尔没动，杜兰特那边也没过掉人。詹姆斯接球虚晃做定点突破抛射得手，经典的无球锋线打法。&lt;/p&gt;
+&lt;p&gt;简单么？简单，但是这是他这个位置的最优解。做对一次容易，次次做对不容易。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图12&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图12&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/12.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图12
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图12：攻联防，詹姆斯交球之后原本是要站在侧翼拉开空间的，发现大加索尔被杜兰特吸引走，随后悄悄的从身后绕开卡尔德隆进入禁区，来的恰到好处，偷下前场篮板得分。&lt;/p&gt;
+&lt;p&gt;本场球詹姆斯3个进攻板并列全队最高，他一个锋线面对3大内线加一个内线替补的西班牙队能拿下这些前场板，不靠篮球智商去巧妙卡位难道靠身体硬抢？&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图13&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图13&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/13.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图13
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图13：詹姆斯打中锋，对面守盯防。詹姆斯先去给科比做了一个结结实实的掩护逼迫对方换防，科比那边已经有了一个错位。但这机会还不够好。詹姆斯在换防后半秒没停，直接连贯的跑去安东尼那里做了个假掩护，把9号雷耶斯完全骗开，轻松接球得分。这球可以说是詹姆斯靠自己的无球掩护和跑位创造出的机会。&lt;/p&gt;
+&lt;p&gt;嗯不对啊，不是说詹姆斯不会无球么？&lt;/p&gt;
+&lt;p&gt;搞笑呢，一个前锋不会无球？&lt;/p&gt;
+&lt;p&gt;上面四个回合是詹姆斯积极主动做一些无球做出的贡献。但大多数时候和其他组织核心一样，由于持球组织任务重，无球其实是他们的休息时刻。&lt;strong&gt;再次强调一遍，一个球队的战术，不需要也不允许5个人同时开跑。大部分人一定是站在有威胁的位置不动，从而拉开空间让防守队员罚站从而支持己方攻击点&lt;/strong&gt;。尤其对于持球大核心来说，如果队友确实支配球能力足够强，或许你可以说他们应该适当减少球权去跑跑无球战术让其他人参与。但一来这种说法并不靠谱，球队原本就应该让最强的人获得尽可能多的资源。团队里最强的人获得最多的资源从而完成目标是天经地义的事情。另一方面，球队有多个持球手本身就是为了让持球手们获得更多的休息时间。场上摆多个持球手时，一个人持球，其余人是预备状态，目的是让己方存在更多可能性，而非让无球的自己变成无球战术主攻点。此时他们应该做的就是底角抽烟保存体力，同时吸引对位人避免夹击正在持球的另一位持球人，而不是像无球攻击手那样疯狂绕跑，否则球队囤积持球手就失去了意义。&lt;strong&gt;一句话，持球核心无球不跑是应该的&lt;/strong&gt;。只要持球核心在无球时没有被放空从而导致队友被夹击，就不能说他们无球时做错了事情。&lt;/p&gt;
+&lt;p&gt;反过来，不该跑瞎跑，并不是积极的体现。如同本节开头提到的，无球时最重要的依然是判断，先判断自己需要做什么、队友需要做什么。跑只是手段。比如开场第一回合&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图14&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图14&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/14.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图14
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图14：开场第一回合，詹姆斯佯攻交球之后科比和钱德勒弧顶挡拆。此时包括詹姆斯之内的另外三人站在外线不动就是最大的贡献，谁要是跑就把科比堵死了。&lt;/p&gt;
+&lt;p&gt;积极跑位造成副作用的例子也有不少，比如&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图15&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图15&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/15.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图15
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图15：詹姆斯和乐福挡拆后突破。底角的安东尼此时突然试图切入，结果把费尔南德斯带到了詹姆斯的突破路线上，进攻打死了。&lt;/p&gt;
+&lt;p&gt;当然也不能就说一定是安东尼“犯错”，可能这一下只是默契不到位，没有看出詹姆斯的意图。类似的事情还有很多，&lt;strong&gt;结果不理想不一定有人有责任&lt;/strong&gt;，很可能只是意外。&lt;/p&gt;
+&lt;p&gt;但无论怎么说，理解队友意图和战术意图确实是一个难点，理解错了就容易把战术打死，比如下面这个回合。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图16&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图16&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/16.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图16
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图16：进攻打死，詹姆斯试图单挑后大对角转移杜兰特。杜兰特定点突破离谱抛投命中。&lt;/p&gt;
+&lt;p&gt;表面上看：杜兰特牛逼！詹姆斯甩锅！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但你们想过没有，为什么进攻被打死了？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;来看看这进攻的起手式。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图17&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图17&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/17.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图17
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图17：本次进攻的战术。由科比从左往右绕底线跑做佯攻，同时保罗弧顶往右侧詹姆斯给球加强这个假象。佯攻的科比过去后给杜兰特做第一道掩护让他往左跑，绕过乐福的第二道掩护后在底角出现机会，同时弧顶的球从詹姆斯给回保罗。底角杜兰特的机会是此次战术的目的。这球是美国队暂停回来第一回合，显然是布置过了。&lt;/p&gt;
+&lt;p&gt;为什么打死了？杜兰特来晚了半秒，12号鲁尔已经绕过乐福的掩护了。杜兰特绕底线，经过禁区的时候突然减速导致迟到，保罗没法给过去，只好回詹姆斯。至此战术打死，最后杜兰特抛投强行续命。换句话说，杜兰特解决的是他自己造成的问题。&lt;/p&gt;
+&lt;p&gt;所以说，无球是个博大精深的学问，绝对不是说看谁跑得多跑得快谁无球就厉害，看谁站定了谁就是无球毒瘤。无球和球场上的其他动作一样，一切行为服务于目的。如何解读目的、判断该做的事情，是篮球智商的核心。而仔细看完比赛，你会发现很难找到詹姆斯无球跑错的回合。相反，他无球端总在观察局势，试图做出最有利的判断，这是顶级篮球智商的体现。&lt;/p&gt;
+&lt;h2 id=&#34;防守和节奏&#34;&gt;防守和节奏&lt;/h2&gt;
+&lt;p&gt;防守和对节奏的把控我放在一起说，因为他们都基于双方整体上的考虑，有大量的策略安排在里面。&lt;/p&gt;
+&lt;p&gt;讨论前提是分清双方整体上的优劣势。美国队的优势是轮换深度和外线的身体对抗，尤其是锋线的强度。西班牙的优势则是内线极其高大且扎实，辅以更加熟练的团队配合。体现在比赛上，则是西班牙对于禁区接球高举高打、篮板球控制都具有绝对优势，而美国队需要更多的造失误、更多的提高进攻成功率，以及想尽办法拒绝西班牙三塔进入禁区。&lt;/p&gt;
+&lt;p&gt;而詹姆斯这场的任务是：进攻端控制比赛节奏，防守端。。。。。。。。。&lt;/p&gt;
+&lt;p&gt;没错，他防守端的任务是：在有中锋（乐福、钱德勒）在场时主防对方4号位的小加索尔/伊巴卡。而在乐福/钱德勒分别只上场19/9分钟的情况下担当了大量无中锋阵容的中锋位置，主防对方中锋大加索尔。&lt;/p&gt;
+&lt;p&gt;听上去就很恐怖。然而最后你会发现，他防的是最好的。。。。。当然，在如此重的低位防守任务情况下，也就分不出精力去协防了。实际上他确实几乎都在和对方内线肉搏，实在是脱不开身，本身就没在协防位置上。&lt;/p&gt;
+&lt;p&gt;大加索尔打乐福和钱德勒予取予求（看看第三节加索尔都干了些啥），打詹姆斯则几乎没有在禁区接到过球。小加索尔类似。&lt;/p&gt;
+&lt;p&gt;怎么做到的？2012年他居然不是DPOY？&lt;/p&gt;
+&lt;p&gt;硬扛，显然是扛不住的。&lt;strong&gt;实际上一旦大加索尔真的背身在低位接到了球，詹姆斯的防守效果和乐福/钱德勒别无二致：目送进球。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;詹姆斯的篮球智商还是发挥了作用。对比乐福和钱德勒，他并没有更强的吨位，高度更不必说，而臂展从来都不是他的强项。他能做的就是用尽一切手段抢位置、阻绝球。当然，这里面相当一部分策略肯定是教练组的安排，另一部分则是詹姆斯一些临场救急的发挥。&lt;/p&gt;
+&lt;p&gt;具体细节非常非常多，这里我只举几个例子。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图18&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图18&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/18.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图18
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图18：防挡拆大幅上提，凶狠压迫，逼迫提前出球使得小加索尔接球位置过高无法造成威胁。这应该是美国队赛前安排的策略，詹姆斯贯彻了一整场，执行的非常坚决。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图19&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图19&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/19.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图19
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图19：疯狂绕前卡位断球，最终抢断送出快攻。这种镜头本场屡见不鲜，虽然不直接体现篮球智商，但是对詹姆斯的篮球智商提出了极高的要求：这样防体力消耗太大了，他要怎么保存体力？这个后面讲。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图20&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图20&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/20.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图20
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图20：体现詹姆斯智商的回合。一通掩护换防之后大加索尔对上德隆形成巨大错位下顺了，此时詹姆斯刚好在篮下。此时比较本能的选择：1. 帮德隆补，喊德隆换回外线。2. 和德隆一起夹击。&lt;/p&gt;
+&lt;p&gt;詹姆斯电光火石之间做出了判断：都不，选择了3。。。。&lt;/p&gt;
+&lt;p&gt;他直接换去外线防费尔南德斯了，把大加索尔留给了德隆。为啥呢？&lt;/p&gt;
+&lt;p&gt;事实证明这样是有效的。大加索尔都到那个位置了，面前是詹姆斯还是德隆还是詹姆斯+德隆对他来说根本没有任何区别，但球是飞向费尔南德斯的。詹姆斯果断选择扑出去拼命罩住费尔南德斯，阻断了一切传球角度。最终这个球没有传出来，大加索尔望球兴叹。&lt;/p&gt;
+&lt;p&gt;夸一下德隆，卡位真的很努力。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图21&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图21&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/21.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图21
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图21：又是一个体现意识的回合。科比被挡+被骗，纳瓦罗过个干净，伊巴卡处在可以扣篮的位置。詹姆斯及时协防，位置和时机精准无比，把纳瓦罗的突破和传球路线全部封死，造成失误，杜兰特抢断快攻。&lt;/p&gt;
+&lt;p&gt;顺便夸一句，这球乐福补的及时，果断放弃了弱侧的小加索尔，卡住了位置更具威胁的伊巴卡。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图22&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图22&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/22.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图22
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图22：小加和伊巴卡下去了，4号位摆了9号雷耶斯，威胁下降不少，詹姆斯终于可以去协防了，果断提前站协防位，封阻了鲁尔的突破路线，配合回追的杜兰特完成防守。&lt;/p&gt;
+&lt;p&gt;然后下半场，对面内线回来了，又是无尽的卡位、要位、延误。。。&lt;/p&gt;
+&lt;p&gt;他就不累么？怎么节省体力的？&lt;/p&gt;
+&lt;p&gt;一看数据，好家伙，出手才13，但是8中。&lt;/p&gt;
+&lt;p&gt;怎么回事？&lt;/p&gt;
+&lt;p&gt;这就是本节讲过的：詹姆斯要控节奏，一方面要确保美国队发挥自己的优势，一方面要节省体力。&lt;/p&gt;
+&lt;p&gt;所以他的策略是：快慢结合，主打成功率，自己克制出手，只有紧要关头才硬杀。&lt;/p&gt;
+&lt;p&gt;这句话并不trivial。很多时候球队并不应该主打快慢结合，节奏应该看球队优劣势来决定。这支美国队快攻和造失误是强项，但篮板是弱项需要保成功率。前者强调快，后者强调慢，怎么拿捏很讲火候。很多时候并不是这样。比如2016 NBA总决赛，骑士的优势是篮板球和换防，勇士优势是夹击造失误打反击和体能，骑士就应该全场打慢，除非快攻机会实在太好，于是詹姆斯压节奏压了一整场，最终奏效了。&lt;/p&gt;
+&lt;p&gt;而这场球，快慢结合，一切围绕成功率，是美国队的核心策略。詹姆斯就是场上控制快慢的人（还有保罗）。&lt;/p&gt;
+&lt;p&gt;与此同时詹姆斯极大减少了个人进攻，以之前介绍过的组织策动为主，很好的调动了美国队的进攻。他的个人进攻，都是要命的时刻。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图23&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图23&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/23.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图23
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图23：詹姆斯第一次硬杀，发生在第二节初。詹姆斯刚上场不久，美国队此前连续空位不中以及失误，被追到1分，詹姆斯接球立即强杀暴扣得手。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图24&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图24&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/24.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图24
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图24：第二次强杀，西班牙甚至反超了比分。詹姆斯看局势不对后场推进强杀造成犯规，两罚全中。&lt;/p&gt;
+&lt;p&gt;接下去的强杀，就是第三节中图5的单挑了，此时加索尔大发神威，在美国队内线连连得手，同时西班牙突然改单防掐死了杜兰特打联防时舒服的投篮机会，美国队落后3分，是全场最危险的时刻。詹姆斯立即突破上篮得手。&lt;/p&gt;
+&lt;p&gt;可以看到詹姆斯的单挑频率是很低的，但球球要命且次次打成，这体现了他对比赛的控制：什么时候自己来，什么时候队友来，拿捏的恰到好处。&lt;/p&gt;
+&lt;p&gt;最后两次强杀，就是第四节末了。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图25&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图25&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/25.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图25
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图26&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图26&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/26.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图26
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图25-26：第四节末，詹姆斯连杀两个，比赛盖棺定论。&lt;/p&gt;
+&lt;p&gt;而詹姆斯对于比赛快慢的把握，也是精准无比。比如下面几个回合，詹姆斯发现了快攻/半转换契机，绝不放过，上球或者亲自快下，绝不浪费转换机会。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图27&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图27&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/27.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图27
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图28&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图28&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/28.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图28
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;图27：乐福抢断詹姆斯从底线快速冲刺到最前面，暴扣得分。&lt;/p&gt;
+&lt;p&gt;图28：对方球进，但是詹姆斯嗅到了半转换的机会，直接长传杜兰特追身命中。&lt;/p&gt;
+&lt;p&gt;开场的图2也是很典型的例子。&lt;/p&gt;
+&lt;p&gt;而不能快的时候詹姆斯绝不勉强。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图29&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图29&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/29.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图29
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图29：詹姆斯试图强推转换，发现对方回防极快，于是果断减速重新组织，给回弧顶科比。结果科比这球瞎打了。&lt;/p&gt;
+&lt;p&gt;你觉得这很简单？但很多人就做不到，因为判断不了这球打快有多大把握。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图30&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图30&#34;
+           src=&#34;https://quarkquartet.github.io/zh/post/James_IQ_zhihu/image/30.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图30
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;图30：说的就是你，威斯布鲁克。&lt;/p&gt;
+&lt;h2 id=&#34;总结&#34;&gt;总结&lt;/h2&gt;
+&lt;p&gt;什么最难？决策最难。判断问题的解决方案，找准努力方向，是一切工作的核心。每一个看似简单的工作背后，都是敏锐而审慎的思考。思考“做什么”，比“怎么做”，更加的基础，也更需要长期大量的经验和与生俱来的判断力。只有正确的思考把问题的解决导向了正确的方向，才有后面顺理成章的实践、结果。&lt;/p&gt;
+&lt;p&gt;詹姆斯（当然还有保罗），做的就是这些工作。他的篮球智商贯穿在球场的每一个回合，每一处位置，每一分每一秒。他每时每刻都在用头脑判断着球场节奏的变化、双方战术的博弈，并做出正确的判断。这些过程可能毫不起眼，以至于我一个十几年的詹姆斯球迷也不得不反复观看录像才能察觉到这些工作。但正是这些工作的存在，使得球场上那些看上去理所当然的事情能够顺利的发生。杜兰特的30分，西班牙第四节的哑火，美国队内线惨而不崩甚至领先了2个的篮板球，这一切的背后都是对细节的把控和判断。而詹&lt;strong&gt;姆斯就是对这些细节把控最为出色的人，也是这支美国队真正的头脑和核心。你会看到最后的决战时刻，全队拿到球都在本能的寻找詹姆斯。他不是投篮最准的，但他的决策是最令队友信赖的。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;所以，回答题目中的问题：詹姆斯的球商到底高在哪里？&lt;/p&gt;
+&lt;p&gt;答：&lt;strong&gt;在每一个不起眼的细节里面，持之以恒始终如一地，把简单却不容易的判断和选择一个个的做对，并最终引领球队走向胜利&lt;/strong&gt;。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
