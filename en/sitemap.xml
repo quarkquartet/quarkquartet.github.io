@@ -198,10 +198,6 @@
                 href="https://quarkquartet.github.io/en/tags/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/en/publication-type/3/</loc>
-    <lastmod>2023-12-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://quarkquartet.github.io/en/tag/Boltzmann-Equation/</loc>
     <lastmod>2023-12-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -256,20 +252,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://quarkquartet.github.io/en/tag/Neutrino/"
-                />
-  </url><url>
-    <loc>https://quarkquartet.github.io/en/publication_types/</loc>
-    <lastmod>2023-12-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://quarkquartet.github.io/zh/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://quarkquartet.github.io/en/publication_types/"
                 />
   </url><url>
     <loc>https://quarkquartet.github.io/en/publication/</loc>
@@ -580,10 +562,6 @@
                 href="https://quarkquartet.github.io/en/project/parity/"
                 />
   </url><url>
-    <loc>https://quarkquartet.github.io/en/publication-type/2/</loc>
-    <lastmod>2022-10-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://quarkquartet.github.io/en/publication/Parity_EWBG/</loc>
     <lastmod>2022-10-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -846,6 +824,19 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://quarkquartet.github.io/en/blogs/"
+                />
+  </url><url>
+    <loc>https://quarkquartet.github.io/en/publication_types/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/publication_types/"
                 />
   </url>
 </urlset>
