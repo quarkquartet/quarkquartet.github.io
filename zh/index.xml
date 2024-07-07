@@ -1864,7 +1864,39 @@ $f_a$ is the symmetry breaking scale, also the radius of the axion rotation. We 
       <link>https://quarkquartet.github.io/zh/project/EWBG/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://quarkquartet.github.io/zh/project/EWBG/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;It is known that Higgs potential is spontaneously broken in the current universe.
+However, if no new physics is appearing, the symmetry would be restored at high temperature.
+The transition from the restored Higgs potential symmetric phase to the broken phase during the universe cooling down is called the electroweak phase transition (EWPT).&lt;/p&gt;
+&lt;p&gt;If new physics appear, depending on the form of new physics, the phase transition may be enhanced, or on the other hand, the symmetry may not be restored at high temperature.
+Both are strongly motivated for various problems, especially by the baryogenesis problem.
+Specifically, in 1985, it was presented that &lt;a href=&#34;https://inspirehep.net/literature/214544&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;electroweak phase transition may provide the necessary condition for baryogenesis if it&amp;rsquo;s strongly first order&lt;/a&gt;.
+This mechanism is known as electroweak baryogenesis (EWBG).
+However, the phase transition is known to be a smooth crossover after Higgs mass was measured.&lt;/p&gt;
+&lt;p&gt;This is not the end of the story. People know that a simple scalar extension in the Higgs sector could enhance the phase transition so that a strongly first-order phase transition may appear.
+On the other hand, if the real model of this world contains a larger gauge group and multiple electroweak-like phase transitions in the early history, this mechanism may still work at some moment.&lt;/p&gt;
+&lt;p&gt;At least, there are a few things below that worth investigating.&lt;/p&gt;
+&lt;h2 id=&#34;models-including-electroweak-like-phase-transition-at-high-energy-scale&#34;&gt;Models including electroweak-like phase transition at high energy scale&lt;/h2&gt;
+&lt;p&gt;We have tons of models that include a gauge group symmetry breaking pattern at high energy scale. For example, the &lt;a href=&#34;../parity/index.md&#34;&gt;parity-symmetric model&lt;/a&gt; contains a phase transition 
+
+$SU(2)_R \times U(1)_X \to U(1)_Y$.
+More interesting phase transition also appears, for example, in GUT theroy, in twin-Higgs theory, and so forth.
+The phase transition happens for different scalar fields, or have different interactions, or have different coupling strength, compared to the standard model.&lt;/p&gt;
+&lt;p&gt;For example, in parity-symmetric model, the running coupling, especially the running of 
+
+$\lambda$, will make the achievement of a strong first-order phase transition much easier.&lt;/p&gt;
+&lt;p&gt;It could be a very interesting direction to investigate the phase transition and phase thermal history of those models.&lt;/p&gt;
+&lt;h2 id=&#34;computation-of-phase-transition-quantities&#34;&gt;Computation of phase transition quantities&lt;/h2&gt;
+&lt;p&gt;On the other hand, the electroweak phase transition is very technical. The prediction of baryon asymmetry is pretty controversial.
+These include (but not limited to):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wall velocity&lt;/li&gt;
+&lt;li&gt;Baryon number asymmetry&lt;/li&gt;
+&lt;li&gt;Phase transition strength&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Without a trustable method, we cannot make prediction for models.
+Given the strong motivation for electroweak (-like) phase transition stated before, it could be very valuable to improve the computation of various quantities in the phase transition.&lt;/p&gt;
+</description>
     </item>
     
     <item>
