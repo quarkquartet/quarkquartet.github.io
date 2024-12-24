@@ -5,12 +5,240 @@
     <link>https://quarkquartet.github.io/en/tag/Cosmology/</link>
       <atom:link href="https://quarkquartet.github.io/en/tag/Cosmology/index.xml" rel="self" type="application/rss+xml" />
     <description>Cosmology</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://quarkquartet.github.io/media/icon_hu9fe4af0edb92d3e40e98501fc4baa281_1731920_512x512_fill_lanczos_center_3.png</url>
       <title>Cosmology</title>
       <link>https://quarkquartet.github.io/en/tag/Cosmology/</link>
     </image>
+    
+    <item>
+      <title>Primordial black hole as a source of new physics detection</title>
+      <link>https://quarkquartet.github.io/en/post/PBH_newphysics_paperintro/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/en/post/PBH_newphysics_paperintro/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m going to start a plan from today.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll irregularly write blogs to introduce interesting paper I have noticed and read.
+I&amp;rsquo;m not assuming the readers are expert, so I may write some things that look explicit/naive to some senior people.&lt;/p&gt;
+&lt;p&gt;The papers may not be very new and up-to-date.&lt;/p&gt;
+&lt;p&gt;Today I&amp;rsquo;ll introduce 2 papers from the UMD theory group in the past 2 years.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://arxiv.org/abs/2212.11980&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Detecting Axion-Like Particles with Primordial Black Holes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://arxiv.org/abs/2409.13811&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Light in the Shadows: Primordial Black Holes Making Dark Matter Shine&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/post/PBH_newphysics_paperintro/featured_hub1761e16c2ea464147ed26ff16434e3f_61349_d932542e4e8bc34c705ed0a4ab980e0c.webp 400w,
+               /en/post/PBH_newphysics_paperintro/featured_hub1761e16c2ea464147ed26ff16434e3f_61349_0ad9f56853955f510d91e1c6902f26d3.webp 760w,
+               /en/post/PBH_newphysics_paperintro/featured_hub1761e16c2ea464147ed26ff16434e3f_61349_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://quarkquartet.github.io/en/post/PBH_newphysics_paperintro/featured_hub1761e16c2ea464147ed26ff16434e3f_61349_d932542e4e8bc34c705ed0a4ab980e0c.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;556&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/post/PBH_newphysics_paperintro/image/2_hu89cedc015026675a5e626871a7f725e3_533269_c0eda01136b19cdbd1368c7375e5c147.webp 400w,
+               /en/post/PBH_newphysics_paperintro/image/2_hu89cedc015026675a5e626871a7f725e3_533269_51e91979b34cd37d411fd4711c6be699.webp 760w,
+               /en/post/PBH_newphysics_paperintro/image/2_hu89cedc015026675a5e626871a7f725e3_533269_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://quarkquartet.github.io/en/post/PBH_newphysics_paperintro/image/2_hu89cedc015026675a5e626871a7f725e3_533269_c0eda01136b19cdbd1368c7375e5c147.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;Can current-existing primordial black holes (PBH) help us detecting new particles? These 2 papers show a great example.&lt;/p&gt;
+&lt;p&gt;The first paper is very straightforward: PBH can emit particles, and thus can become a natural source of particle factory. As long as those produced particles can be detected, it&amp;rsquo;s promising for new physics discovery or exclusion.&lt;/p&gt;
+&lt;p&gt;This paper uses axion-like particle (ALP) as an example.
+Here we assume that the ALP decays into a pair of photons.
+If ALP is produced from PBH and decays into photon pair before arriving to the earth, it&amp;rsquo;s promising to be detected by future experiments like e-ASTROGRAM or AMEGO.&lt;/p&gt;
+&lt;p&gt;Can the Standard Model (SM) produce similar signal? Yes.
+The PBH can directly radiate out photons.
+However, ALP can distort the photon spectrum, and still lead to new physics discovery, shown in the following plot.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/post/PBH_newphysics_paperintro/image/3_huca2a2e38318615bb3460fbb6c89a2c98_138027_6529a08986dd4d3ef0198408968ce8b6.webp 400w,
+               /en/post/PBH_newphysics_paperintro/image/3_huca2a2e38318615bb3460fbb6c89a2c98_138027_634c80b7568f59a1b379361cbe127228.webp 760w,
+               /en/post/PBH_newphysics_paperintro/image/3_huca2a2e38318615bb3460fbb6c89a2c98_138027_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://quarkquartet.github.io/en/post/PBH_newphysics_paperintro/image/3_huca2a2e38318615bb3460fbb6c89a2c98_138027_6529a08986dd4d3ef0198408968ce8b6.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;697&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;It&amp;rsquo;s easy to see that ALP can change the shape of the detected photon spectrum.
+After performing statistical analysis to quantify how large the deviation is between the ALP-modified spectrum and the pure SM result, we can probe ALP from the photon spectrum distortion.&lt;/p&gt;
+&lt;p&gt;Results shown in the next plot.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/post/PBH_newphysics_paperintro/image/4_huc634845a3fbf6d0262c9a25cf1d552d0_113139_1bc15cc5542317ac7a68e8fb65140c52.webp 400w,
+               /en/post/PBH_newphysics_paperintro/image/4_huc634845a3fbf6d0262c9a25cf1d552d0_113139_10e65fad932d110557c140fa4088721b.webp 760w,
+               /en/post/PBH_newphysics_paperintro/image/4_huc634845a3fbf6d0262c9a25cf1d552d0_113139_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://quarkquartet.github.io/en/post/PBH_newphysics_paperintro/image/4_huc634845a3fbf6d0262c9a25cf1d552d0_113139_1bc15cc5542317ac7a68e8fb65140c52.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;721&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;The shaded region is the projected reach: assuming the black hole has the corresponding mass (e.g. red color means PBH haves a mass of 
+
+$10^{15}$ g.), ALP with such a mass and coupling is projected to be discovered.
+If we have such a PBH but still not discoverd, then this parameter space is excluded.&lt;/p&gt;
+&lt;p&gt;Or we can do it oppositely: if we want to probe a specific parameter space, what is the required PBH mass?&lt;/p&gt;
+&lt;p&gt;The answer is given in the next plot: e.g. the blue curve means only PBH with parameters located in the upper region is capable of producing enough 1 MeV ALPs to be discovered.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/post/PBH_newphysics_paperintro/image/5_hu2837322c3a2794729296f33f46f45ed1_135685_1adb24e84d9705a77ebf55fb35e7dccd.webp 400w,
+               /en/post/PBH_newphysics_paperintro/image/5_hu2837322c3a2794729296f33f46f45ed1_135685_566276a650920b96322ca254ddffd665.webp 760w,
+               /en/post/PBH_newphysics_paperintro/image/5_hu2837322c3a2794729296f33f46f45ed1_135685_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://quarkquartet.github.io/en/post/PBH_newphysics_paperintro/image/5_hu2837322c3a2794729296f33f46f45ed1_135685_1adb24e84d9705a77ebf55fb35e7dccd.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;731&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;Using the similar way, if we go one step more, PBH can do the following for us:&lt;/p&gt;
+&lt;p&gt;Sometimes dark matter annihilation nowadays is weak, and it&amp;rsquo;s very difficult to find dark matter from indirect detection (which captures the annihilation product of dark matter).
+For example, asymmetric dark matter has a low current abundance of the anti-particle of the dark matter.
+The dark matter cannot find is annihilation partner, and thus indirect detection is difficult.&lt;/p&gt;
+&lt;p&gt;PBH can make it up: lack of annihilation partner? I&amp;rsquo;ll produce for you.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s what the second paper is doing.&lt;/p&gt;
+&lt;p&gt;This paper has 2 example models. Here I would just mention one of them: the boosted anti-dark matter (BaDM). The result plot is the following:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/post/PBH_newphysics_paperintro/image/6_huc4f9b906587cdbbc71e2422ff7ccc5f8_294326_341350a8e8e6fea889fd7c619605fb30.webp 400w,
+               /en/post/PBH_newphysics_paperintro/image/6_huc4f9b906587cdbbc71e2422ff7ccc5f8_294326_83abeb09dd8dec05de1d38321fd102d3.webp 760w,
+               /en/post/PBH_newphysics_paperintro/image/6_huc4f9b906587cdbbc71e2422ff7ccc5f8_294326_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://quarkquartet.github.io/en/post/PBH_newphysics_paperintro/image/6_huc4f9b906587cdbbc71e2422ff7ccc5f8_294326_341350a8e8e6fea889fd7c619605fb30.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;737&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;Some key points:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How is the detectable particle mass range determined? The answer is PBH temperature, which behaves like 
+
+$1/M_{\rm PBH}$. A lighter PBH leads to a higher temperature, making it easier to radiate new particles. That&amp;rsquo;s why the parameter to the upper-&amp;rsquo;left&amp;rsquo; region of the curve in the above plot is capable.&lt;/li&gt;
+&lt;li&gt;Too light PBH evaporate too early and cannot survive until today, so there should be a lower limit on the PBH mass. That means we cannot detect particles with arbitrarily high mass.&lt;/li&gt;
+&lt;li&gt;What&amp;rsquo;s the advantage of PBH versus accelerators? The PBH produces particles with gravitational effects rather than particle couplings. So BSM particles can be strongly produced even if the coupling is weak. Producing a weakly-coupled particles, on the contrary, is difficult in accelerators.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And, I love the introduction of the second paper!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Search for dark sector mediator</title>
