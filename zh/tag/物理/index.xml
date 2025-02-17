@@ -5,12 +5,338 @@
     <link>https://quarkquartet.github.io/zh/tag/%E7%89%A9%E7%90%86/</link>
       <atom:link href="https://quarkquartet.github.io/zh/tag/%E7%89%A9%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     <description>物理</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://quarkquartet.github.io/media/icon_hu9fe4af0edb92d3e40e98501fc4baa281_1731920_512x512_fill_lanczos_center_3.png</url>
       <title>物理</title>
       <link>https://quarkquartet.github.io/zh/tag/%E7%89%A9%E7%90%86/</link>
     </image>
+    
+    <item>
+      <title>一种引力波的新的产生方式：bubble碰撞产生粒子</title>
+      <link>https://quarkquartet.github.io/zh/post/GW_particleproduction_paper/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/zh/post/GW_particleproduction_paper/</guid>
+      <description>&lt;p&gt;今天介绍一下去年底出现在arXiv上的一篇文章，来自约翰霍普金斯大学、东京大学、DESY的理论物理组的合作成果。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-gravitational-waves-from-particles-produced-from-bubble-collisions-in-first-order-phase-transitionshttpsarxivorgabs241217912&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;[Gravitational Waves from Particles Produced from Bubble Collisions in First-Order Phase Transitions](https://arxiv.org/abs/2412.17912)&#34; srcset=&#34;
+               /zh/post/GW_particleproduction_paper/image/1_hube1f9fffbee0f063d48d0c6f28b87625_316478_8d9545a0088bed255c963c04a1681ea3.webp 400w,
+               /zh/post/GW_particleproduction_paper/image/1_hube1f9fffbee0f063d48d0c6f28b87625_316478_787be8e6d5b350d075b1d616733fdb46.webp 760w,
+               /zh/post/GW_particleproduction_paper/image/1_hube1f9fffbee0f063d48d0c6f28b87625_316478_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://quarkquartet.github.io/zh/post/GW_particleproduction_paper/image/1_hube1f9fffbee0f063d48d0c6f28b87625_316478_8d9545a0088bed255c963c04a1681ea3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;467&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://arxiv.org/abs/2412.17912&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gravitational Waves from Particles Produced from Bubble Collisions in First-Order Phase Transitions&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;标题其实就说的很清楚了，但是有几个关键词，不是专门做这个的朋友可能不熟悉。&lt;/p&gt;
+&lt;p&gt;我先来解释最关键的：first-order phase transition，也即一阶相变。&lt;/p&gt;
+&lt;p&gt;相变其实是个很广阔的词。我们平时熟悉的固液相变、气液相变，都是一阶相变，特点是两相分界明确。与此相反，如果一个相变是连续相变，没有明确的界限，就叫二阶相变。日常生活中二阶相变的例子并不是很好找，但很多本科级别的课程都会提到铁磁相变，这就是一个二阶相变。&lt;/p&gt;
+&lt;p&gt;宇宙学里面也有相变。比如我们知道现在的粒子都通过与希格斯粒子的相互作用获得质量。但是宇宙学早期，这些质量并不存在，希格斯粒子和其他粒子一样都是无质量的。随着宇宙逐渐冷却，温度降低，到了临界温度之后，质量才会产生。这个过程也属于相变，叫电弱相变。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图片来自arxivhep-ph0609145&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图片来自arXiv:hep-ph/0609145&#34; srcset=&#34;
+               /zh/post/GW_particleproduction_paper/image/2_huf758ee77f1e77bd56b9fe47383fe3282_256158_023e8b2ec0ea31f8f70fc89495c8c7c3.webp 400w,
+               /zh/post/GW_particleproduction_paper/image/2_huf758ee77f1e77bd56b9fe47383fe3282_256158_9b93979e55ce7968476f7ab7578e1d99.webp 760w,
+               /zh/post/GW_particleproduction_paper/image/2_huf758ee77f1e77bd56b9fe47383fe3282_256158_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://quarkquartet.github.io/zh/post/GW_particleproduction_paper/image/2_huf758ee77f1e77bd56b9fe47383fe3282_256158_023e8b2ec0ea31f8f70fc89495c8c7c3.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;556&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图片来自arXiv:hep-ph/0609145
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;这个相变具体是一阶还是二阶，目前没有直接证据。虽然标准模型下算出来是二阶，但是因为不排除有新粒子的存在，而这些新粒子可能会把相变变成一阶，因此一阶相变还是可能的。哪怕标准模型的电弱相变是二阶，宇宙学早期也很有可能存在机制类似的相变，而他们可能是一阶的。&lt;/p&gt;
+&lt;p&gt;如果是一阶，就会出现上图这样的情景。粒子们的质量从0变为一个具体的数，发生相变，并且存在明确的边界。这个明确的边界是一阶相变区别于二阶相变的典型特征。&lt;/p&gt;
+&lt;p&gt;这些边界圈起来的区域，叫做bubble。bubble内部是已经完成相变的部分，外部未完成。&lt;/p&gt;
+&lt;p&gt;这个bubble会像墙一样，可以碰撞周围的粒子，也可以和其他的bubble碰撞。读者可以把bubble想象成一个物理实体。&lt;/p&gt;
+&lt;p&gt;随着相变进行，更多的区域变成有质量的区域，bubble随之膨胀。膨胀过程中可能会碰到其他的bubble，就会产生碰撞。&lt;/p&gt;
+&lt;p&gt;正如现实世界中两个铁球碰撞产生声波一样，这些bubble的碰撞会产生引力波。&lt;/p&gt;
+&lt;p&gt;关于引力波来源的一般规律，已经有相对明确的答案。通俗讲，来源于宇宙中能量-动量张量对各向同性的偏移。&lt;/p&gt;
+&lt;p&gt;如果宇宙绝对均匀，能量和动量就是各向同性、均匀分布的。但宇宙中存在各种各样的扰动，比如本文中的bubble。这些扰动改变了能量分布，可能会使得能量分布不再各向同性。这些非各向同性的能量分布会产生引力波，这是爱因斯坦场方程的直接结论。&lt;/p&gt;
+&lt;p&gt;以上结论具体在bubble的语境下，引力波的来源一般被认为是以下三种。&lt;/p&gt;
+&lt;p&gt;第一部分是bubble本身的形变。&lt;/p&gt;
+&lt;p&gt;bubble本身是一个“质量壳”。这个壳是带有能量的。在bubble不碰撞的时候，自身是不断膨胀的规则球体，本身也是各向同性，不会产生引力波。&lt;/p&gt;
+&lt;p&gt;但碰撞会改变壳的形状，比如上图中有几个圈子已经融为一体，交叉的那部分壳消失了。这一部分的扰动不是各向同性
+的，就会产生引力波。&lt;/p&gt;
+&lt;p&gt;参考：&lt;a href=&#34;https://arxiv.org/abs/1605.01403&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gravitational waves from bubble collisions: analytic derivation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;第二部分是bubble碰撞后的声波扰动。&lt;/p&gt;
+&lt;p&gt;早期宇宙并非真空，而是高温高密度的粒子形成的流体物质。流体作为声波介质，遇到这种bubble的扰动，自然会形成声波。&lt;/p&gt;
+&lt;p&gt;这里需要注意的是，如果单纯是bubble膨胀产生的声波，那么由于bubble是标准球体，因此声波也是各向同性，不会产生引力波。这里的关键依然是bubble碰撞了之后，声波也不再均匀。因此引力波会由这些不均匀的声波产生。&lt;/p&gt;
+&lt;p&gt;参考：&lt;a href=&#34;https://arxiv.org/abs/1608.04735&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sound shell model for acoustic gravitational wave production at a first-order phase transition in the early Universe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;第三部分是人类目前知之甚少的MHD turbulence。我对此了解甚浅，只知道这些扰动由剩余的声波产生，还希望能看到更多大神们的详细解释。在此就不过多赘述。&lt;/p&gt;
+&lt;p&gt;这三种在过去十几年里一直被认为是相变bubble产生引力波的全部方式。但这篇文章提出了一个新的观点：bubble之间碰撞会产生粒子，这些粒子携带的能量分布也是非各向同性的，这也会产生引力波。&lt;/p&gt;
+&lt;p&gt;之前关于bubble碰撞产生粒子的论述不少。前文提过，读者可以把bubble想象成实体。bubble相遇时，就像对撞机一样，可以碰撞出各种粒子。bubble携带的能量越大，就越能造出更重、携带能量更多的粒子。这一点在去年初的一篇文章里有过论述。&lt;a href=&#34;https://arxiv.org/abs/2403.03252v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nonthermal Heavy Dark Matter from a First-Order Phase Transition&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图片来自本文介绍的文章-httparxivorgabs241217912&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;图片来自本文介绍的文章 http://arxiv.org/abs/2412.17912&#34; srcset=&#34;
+               /zh/post/GW_particleproduction_paper/featured_hu641bea3b0bc0c08eddb369f5e5102fe6_112726_183803752e9d3e6404bfa23a3cf56e2b.webp 400w,
+               /zh/post/GW_particleproduction_paper/featured_hu641bea3b0bc0c08eddb369f5e5102fe6_112726_eeda229d781dae6b6cb03e764c58010f.webp 760w,
+               /zh/post/GW_particleproduction_paper/featured_hu641bea3b0bc0c08eddb369f5e5102fe6_112726_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://quarkquartet.github.io/zh/post/GW_particleproduction_paper/featured_hu641bea3b0bc0c08eddb369f5e5102fe6_112726_183803752e9d3e6404bfa23a3cf56e2b.webp&#34;
+               width=&#34;700&#34;
+               height=&#34;459&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图片来自本文介绍的文章 &lt;a href=&#34;http://arxiv.org/abs/2412.17912&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://arxiv.org/abs/2412.17912&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;很显然的，由于碰撞本身已经破坏了各向同性，这些产生的粒子携带的能量在宇宙中必然不是各向同性的，因此会产生引力波。这便是一种之前从未被关注过的引力波来源。&lt;/p&gt;
+&lt;p&gt;下一个问题则是：bubble的能量足够大么？真的可以产生足够多的带有足够能量的粒子去产生引力波么？&lt;/p&gt;
+&lt;p&gt;对于这个问题，这篇文章也是基于大家普遍的认识：只有在真空或近乎真空的环境下产生的bubble wall才会达到如此高的能量。在有plasma出现的情况下，大部分相变潜热会被plasma带走，bubble shell携带的能量比例会很低。这个条件和之前提到的bubble collision条件类似（废话，这里的particle production就是基于bubble collision）。&lt;/p&gt;
+&lt;p&gt;于是我们将讨论分为两类：真空或近乎真空、以及有plasma的环境。前者是这篇文章的适用范围、以及bubble collision产生足够强的引力波信号的条件，一般会在supercooling下出现，或者在由一些低温环境下的量子隧穿主导的相变下出现。后者与此文无关。&lt;/p&gt;
+&lt;p&gt;于是，在此等环境下，这类新的引力波产生机制会把引力波的频谱修改为如下结果：&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /zh/post/GW_particleproduction_paper/image/3_hu06a32a8826663a5649ebbcb5cfb09620_299114_4132cd3609c63ab4dc945caae127a5c6.webp 400w,
+               /zh/post/GW_particleproduction_paper/image/3_hu06a32a8826663a5649ebbcb5cfb09620_299114_e45a0646a7b29beb801ade93d99ecfff.webp 760w,
+               /zh/post/GW_particleproduction_paper/image/3_hu06a32a8826663a5649ebbcb5cfb09620_299114_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://quarkquartet.github.io/zh/post/GW_particleproduction_paper/image/3_hu06a32a8826663a5649ebbcb5cfb09620_299114_4132cd3609c63ab4dc945caae127a5c6.webp&#34;
+               width=&#34;700&#34;
+               height=&#34;490&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;虚线是原本的bubble collision的结果，实线是新的产生机制的结果(最后总的结果应该为这两者相加)。可以看到在低频区，这种新的引力波产生机制大大提升了引力波的强度。&lt;/p&gt;
+&lt;p&gt;我目前还没有来得及仔细检查全部的计算，但是目前看应该没有问题。这应该是一篇意义很重大的文章，从此所有真空/类真空中产生bubble的物理过程都会用到这个结果。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>原初黑洞作为粒子源进行新物理探测</title>
+      <link>https://quarkquartet.github.io/zh/post/PBH_newphysics_paper/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/zh/post/PBH_newphysics_paper/</guid>
+      <description>&lt;p&gt;今天开始进行一个新的计划。准备不定时发一些看到的好文章（也可能包括自己的），但发布不一定完全及时，比如今天发的文章就不是最近1-2周内挂到arxiv的。&lt;/p&gt;
+&lt;p&gt;发送平台为知乎、公众号，X（英文）、和个人主页（双语）。&lt;/p&gt;
+&lt;p&gt;今天介绍文章是马里兰大学的组在2022和2024两年先后发布的两篇文章。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://arxiv.org/abs/2212.11980&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Detecting Axion-Like Particles with Primordial Black Holes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://arxiv.org/abs/2409.13811&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Light in the Shadows: Primordial Black Holes Making Dark Matter Shine&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./image/2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;现今依然存在的原初黑洞可以帮助我们探测新物理吗？这两篇文章给了我们很好的例子。&lt;/p&gt;
+&lt;p&gt;第一篇文章的思路非常清晰：原初黑洞(primordial black hole, PBH)本身会通过霍金辐射(Hawking radiation)发射粒子，因此有希望成为一个天然的粒子制造机。只要我们有足够的探测器，就有希望探测到黑洞发出的粒子物理信号。&lt;/p&gt;
+&lt;p&gt;文章用axion-like particle (ALP)作为典型例子。这里选取的是主要衰变为光子对的ALP。如果ALP会被黑洞产生，并在抵达地球之前衰变为一对光子，就有希望被诸如e-ASTROGRAM、AMEGO之类的实验捕捉到，从而帮助我们寻找ALP。&lt;/p&gt;
+&lt;p&gt;标准模型可以产生类似的信号吗？也可以。黑洞可以直接发射光子。但如果ALP存在，会改变发射的光子谱。如下图。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./image/3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;可以看到ALP的存在会让接收到的光子谱改变形状，由此可以探测是否真的存在ALP。&lt;/p&gt;
+&lt;p&gt;根据形状的改变，加以统计学分析之后，就可以预测出黑洞源能够探测的参数空间。如下图。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./image/4.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;阴影区域是预测：若存在对应质量的黑洞（例如红色对应的是质量为 
+
+$10^{15}$g 的黑洞），则预计此区域的ALP可以被捕捉。在已知存在此质量的黑洞的前提下，若ALP实际未被捕捉到，说明此参数空间被排除。&lt;/p&gt;
+&lt;p&gt;图也可以反过来画：如果我们要探测某个参数的ALP，又需要多大质量的黑洞？下图就给出了答案：例如途中的蓝色线表示只有黑洞的参数在蓝色线上方时才能产生足够多的1 MeV的ALP从而被观测到。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./image/5.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;利用类似的思路，作进一步思考，会发现黑洞还可以做如下的事情：&lt;/p&gt;
+&lt;p&gt;很多时候暗物质湮灭在现今世界是很难的，因此indirect detection的信号非常难以捕捉。例如，如果暗物质的asymmetric dark matter，那么暗物质的反粒子密度极低，暗物质难以找到反物质进行湮灭，因此目前indirect detection就找不到暗物质湮灭的信号。&lt;/p&gt;
+&lt;p&gt;黑洞补齐了这一点：缺啥补啥。暗物质缺反物质或者其他的湮灭对象？来我给你发出来。&lt;/p&gt;
+&lt;p&gt;这就是第二篇文章要做的事情。&lt;/p&gt;
+&lt;p&gt;文章举了两个模型作为例子。这里我只提第一个，boosted anti-dark matter (BaDM)。会产生如下的结果图，理解方式和上图相同。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./image/6.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;几个关键问题：&lt;/p&gt;
+&lt;p&gt;黑洞能探测的质量范围由什么决定？黑洞的温度，而温度由黑洞的质量决定，黑洞质量越低，温度越高，越容易发射粒子。因此上面两图中能够探测到粒子的黑洞在斜线“左”上方。&lt;/p&gt;
+&lt;p&gt;太轻的黑洞因为发射太快，早就把自己发射没了，活不到现在。所以黑洞的质量有下限。&lt;/p&gt;
+&lt;p&gt;黑洞探测相比加速器实验有什么好处？黑洞发射粒子是引力效应，哪怕粒子的相互作用非常弱，依然有希望通过引力效应从黑洞中大量产生。而加速器就很难造出相互作用很弱的粒子。&lt;/p&gt;
+&lt;p&gt;以及，第二篇文章的introduction写的尤其好。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>如何选择一个正确的博士生导师？</title>
