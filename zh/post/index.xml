@@ -5,12 +5,143 @@
     <link>https://quarkquartet.github.io/zh/post/</link>
       <atom:link href="https://quarkquartet.github.io/zh/post/index.xml" rel="self" type="application/rss+xml" />
     <description>我的博客</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://quarkquartet.github.io/media/icon_hu9fe4af0edb92d3e40e98501fc4baa281_1731920_512x512_fill_lanczos_center_3.png</url>
       <title>我的博客</title>
       <link>https://quarkquartet.github.io/zh/post/</link>
     </image>
+    
+    <item>
+      <title>新文章介绍：热暗物质的间接探测</title>
+      <link>https://quarkquartet.github.io/zh/post/indirect_hotDM/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/zh/post/indirect_hotDM/</guid>
+      <description>&lt;p&gt;很久不介绍文章了。今天介绍一下近期我觉得最吸引我的文章之一。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/quarkquartet/MyPicGo/master/2025/20250426224442161.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://arxiv.org/abs/2412.14264&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我们都知道暗物质是存在的，只是不知道暗物质是什么。&lt;/p&gt;
+&lt;p&gt;一个很自然的问题是：在目前的宇宙中，暗物质具有相对高一些的动能（热暗物质, hot dark matter, HDM，起码在脱离热平衡成为孤立物质的时候是高速运动相对论性的物质），还是速度极低的物质（冷暗物质, cold dark matter, CDM）？&lt;/p&gt;
+&lt;p&gt;长久以来，标准宇宙学模型普遍认为主导的暗物质是冷暗物质。但是热暗物质可以存在吗？&lt;/p&gt;
+&lt;p&gt;答案是可以，只不过受到很多限制。&lt;/p&gt;
+&lt;p&gt;例如，热暗物质速度更快，会冲击宇宙中已经形成的天体（说的更专业一点，“小尺度结构”和“大尺度结构”）。
+这些天体的分布是会被观测到的。这些天体携带大量的物质，他们的质量分布已经有了很多观测数据。&lt;/p&gt;
+&lt;p&gt;如果这些天体被热暗物质冲击，会导致宇宙中的物质质量分布与观测不符。&lt;/p&gt;
+&lt;p&gt;因此目前普遍认为，暗物质是冷暗物质主导，热暗物质可以存在，但最多占据大约10%左右的比例。&lt;/p&gt;
+&lt;p&gt;但也正因为这10%左右的低比例，使得假想中的热暗物质极难被真正观测。即使是目前最先进的Lyman-$\alpha$观测（此观测正是基于质量分布），也很难排除相当多的可能性。&lt;/p&gt;
+&lt;p&gt;那么热暗物质是否有和传统的冷暗物质类似的探测方式呢？&lt;/p&gt;
+&lt;p&gt;传统中的冷暗物质，总体上有三类探测方式：&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/quarkquartet/MyPicGo/master/2025/20250426224442162.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;暗物质与暗物质相互作用，湮灭，产生标准模型粒子。即$\mathrm{DM} + \mathrm{DM} \to \mathrm{SM} + \mathrm{SM}$。我们观察这些产生的标准模型粒子是否数量过多、能量过大。如果超出预期，则推测可能有暗物质存在作为这些额外信号的源头。若有的暗物质理论模型预言了一些此类超出预期的信号，实际却没有发现，则排除这些理论。此类探测叫做间接探测，对应上图中下方指向右侧的箭头。&lt;/li&gt;
+&lt;li&gt;暗物质与标准模型粒子的散射，即$\mathrm{DM} +\mathrm{SM} \to \mathrm{DM} +\mathrm{SM}$，我们使用已知物质制作探测器，观测探测器中的标准模型物质是否会被来自宇宙中的暗物质撞击到，从而获得额外的能量。此类探测成为直接探测，对应上图中左侧指向上方的箭头。&lt;/li&gt;
+&lt;li&gt;直接在对撞机/加速器里用标准模型粒子碰撞，看看能不能把暗物质粒子造出来，然后试图捕捉他们。对应上图中上方指向左侧的箭头。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;传统来讲，间接探测一般都在讨论冷暗物质。因为如上所述，间接探测是暗物质之间的湮灭。这类湮灭需要暗物质大量聚集在一起，形成高密度，才可以有比较频繁的湮灭过程。
+冷暗物质如何形成聚集起来的物质结构，已经有相对明确的研究。
+目前主流观点是，冷暗物质会在引力作用下聚集、塌缩，并重新分布。最终稳定的平衡点是引力势能和动能达到平衡的分布。
+这个分布成球形，叫做暗物质晕(dark matter halo)。&lt;/p&gt;
+&lt;p&gt;而热暗物质速度快，到处乱跑，直观上似乎很难形成间接探测。&lt;/p&gt;
+&lt;p&gt;这篇文章提出了一个新的想法：谁说热暗物质不能形成聚集的结构？&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/quarkquartet/MyPicGo/master/2025/20250426224442163.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;文章提出了两种热暗物质形成结构的方式。具体的形成方式涉及到物质结构形成的技术细节，此处不赘述。
+用通俗语言描述的话，两种方式分别为：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;热暗物质并非100%高速，而是有统计分布的。低速的那一部分会像冷暗物质一样，形成暗物质晕。而形成的暗物质晕会逐渐汇聚，形成更大的晕，最终达到稳定形态。由于这个过程和冷暗物质几乎没区别，因此称作concurrent collapse.&lt;/li&gt;
+&lt;li&gt;在占主导地位的冷暗物质形成稳定的暗物质晕之后，这部分冷暗物质会把热暗物质通过引力作用吸引过来。这个过程叫做gravitational clustering.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;在热暗物质形成了物质结构之后，就有条件进行湮灭和大量的衰变，从而被观测到。
+文章的最后使用了轴子暗物质(axion dark matter)作为例子。
+轴子暗物质可能以极缓慢的速度衰变为光子。如果他们有聚集，那么我们会观测到比较集中的光子信号。&lt;/p&gt;
+&lt;p&gt;不同相互作用强度、不同质量的轴子，发射的光子能量不一，因此需要用不同灵敏度的实验去探测。
+下图是能够被观测的轴子暗物质的质量和相互作用强度参数范围。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/quarkquartet/MyPicGo/master/2025/20250429170031847.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;灰色是已经被排除的区域，不同的彩色则代表不同的实验能够观测到的区域。&lt;/p&gt;
+&lt;p&gt;老实讲，单就轴子暗物质的观测而言，这里打开的新的观测范围并不是很大（注意横坐标是线性坐标而不是log坐标）。
+但这篇文章非常具有启发性：之前我们从未设想过热暗物质可能会形成结构，并进行间接探测。这条思路的应用绝不限于轴子暗物质，而是会被应用到更广泛的区域。
+对热/暖暗物质有兴趣的同行，建议精读全文，并寻找可能的该进和应用。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>40岁月最佳：是谁解放了詹姆斯？</title>
