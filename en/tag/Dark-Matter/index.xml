@@ -5,12 +5,28 @@
     <link>https://quarkquartet.github.io/en/tag/Dark-Matter/</link>
       <atom:link href="https://quarkquartet.github.io/en/tag/Dark-Matter/index.xml" rel="self" type="application/rss+xml" />
     <description>Dark Matter</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://quarkquartet.github.io/media/icon_hu9fe4af0edb92d3e40e98501fc4baa281_1731920_512x512_fill_lanczos_center_3.png</url>
       <title>Dark Matter</title>
       <link>https://quarkquartet.github.io/en/tag/Dark-Matter/</link>
     </image>
+    
+    <item>
+      <title>A Thermal Relic Encyclopedia: Dark Matter Candidates Coupled to Quarks</title>
+      <link>https://quarkquartet.github.io/en/publication/Thermal-Relic-Encyclopedia/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/en/publication/Thermal-Relic-Encyclopedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark Matter and Baryon Asymmetry from Monopole-Axion Interactions</title>
+      <link>https://quarkquartet.github.io/en/publication/Monopole-axion/</link>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/en/publication/Monopole-axion/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Upper Bound on Parity Breaking Scale for Doublet WIMP Dark Matter</title>

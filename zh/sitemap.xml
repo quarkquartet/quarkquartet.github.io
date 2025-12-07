@@ -827,6 +827,16 @@
     <loc>https://quarkquartet.github.io/zh/tag/Collider/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/tag/Collider/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/tag/Collider/"
+                />
   </url><url>
     <loc>https://quarkquartet.github.io/zh/tag/Higgs/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
@@ -835,10 +845,30 @@
     <loc>https://quarkquartet.github.io/zh/tag/LEP/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/tag/LEP/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/tag/LEP/"
+                />
   </url><url>
     <loc>https://quarkquartet.github.io/zh/tag/LHC/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/tag/LHC/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/tag/LHC/"
+                />
   </url><url>
     <loc>https://quarkquartet.github.io/zh/tag/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
