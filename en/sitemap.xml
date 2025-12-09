@@ -33,10 +33,30 @@
     <loc>https://quarkquartet.github.io/en/publication/Thermal-Relic-Encyclopedia/</loc>
     <lastmod>2025-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/publication/Thermal-Relic-Encyclopedia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/publication/Thermal-Relic-Encyclopedia/"
+                />
   </url><url>
     <loc>https://quarkquartet.github.io/en/tag/Chiral-Perturbation-Theory/</loc>
     <lastmod>2025-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/tag/Chiral-Perturbation-Theory/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/tag/Chiral-Perturbation-Theory/"
+                />
   </url><url>
     <loc>https://quarkquartet.github.io/en/tag/Collider/</loc>
     <lastmod>2025-12-02T00:00:00+00:00</lastmod>
@@ -69,6 +89,16 @@
     <loc>https://quarkquartet.github.io/en/tag/Direct-Detection/</loc>
     <lastmod>2025-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/tag/Direct-Detection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/tag/Direct-Detection/"
+                />
   </url><url>
     <loc>https://quarkquartet.github.io/en/tag/Freezeout/</loc>
     <lastmod>2025-12-02T00:00:00+00:00</lastmod>
@@ -157,6 +187,16 @@
     <loc>https://quarkquartet.github.io/en/tag/Rare-Meson-Decay/</loc>
     <lastmod>2025-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/tag/Rare-Meson-Decay/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/tag/Rare-Meson-Decay/"
+                />
   </url><url>
     <loc>https://quarkquartet.github.io/en/tags/</loc>
     <lastmod>2025-12-02T00:00:00+00:00</lastmod>
@@ -259,10 +299,30 @@
     <loc>https://quarkquartet.github.io/en/tag/Ultra-High-Energy-Neutrino/</loc>
     <lastmod>2025-11-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/tag/Ultra-High-Energy-Neutrino/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/tag/Ultra-High-Energy-Neutrino/"
+                />
   </url><url>
     <loc>https://quarkquartet.github.io/en/publication/UHE-NuSI/</loc>
     <lastmod>2025-11-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/publication/UHE-NuSI/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/publication/UHE-NuSI/"
+                />
   </url><url>
     <loc>https://quarkquartet.github.io/en/tag/Axiogenesis/</loc>
     <lastmod>2025-11-13T00:00:00+00:00</lastmod>
@@ -295,6 +355,16 @@
     <loc>https://quarkquartet.github.io/en/tag/Axion-Dark-Matter/</loc>
     <lastmod>2025-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/tag/Axion-Dark-Matter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/tag/Axion-Dark-Matter/"
+                />
   </url><url>
     <loc>https://quarkquartet.github.io/en/tag/Axion-Rotation/</loc>
     <lastmod>2025-11-13T00:00:00+00:00</lastmod>
@@ -327,18 +397,58 @@
     <loc>https://quarkquartet.github.io/en/publication/Monopole-axion/</loc>
     <lastmod>2025-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/publication/Monopole-axion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/publication/Monopole-axion/"
+                />
   </url><url>
     <loc>https://quarkquartet.github.io/en/tag/Monopole/</loc>
     <lastmod>2025-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/tag/Monopole/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/tag/Monopole/"
+                />
   </url><url>
     <loc>https://quarkquartet.github.io/en/tag/Parametric-Resonance/</loc>
     <lastmod>2025-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/tag/Parametric-Resonance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/tag/Parametric-Resonance/"
+                />
   </url><url>
     <loc>https://quarkquartet.github.io/en/tag/QCD-Axion/</loc>
     <lastmod>2025-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/tag/QCD-Axion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/tag/QCD-Axion/"
+                />
   </url><url>
     <loc>https://quarkquartet.github.io/en/tag/Dark-Mediator/</loc>
     <lastmod>2025-11-05T00:00:00+00:00</lastmod>
@@ -399,6 +509,16 @@
     <loc>https://quarkquartet.github.io/en/publication/MUonE-vector/</loc>
     <lastmod>2025-11-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/publication/MUonE-vector/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/publication/MUonE-vector/"
+                />
   </url><url>
     <loc>https://quarkquartet.github.io/en/tag/MUonE/</loc>
     <lastmod>2025-11-05T00:00:00+00:00</lastmod>
@@ -417,6 +537,16 @@
     <loc>https://quarkquartet.github.io/en/tag/Vector-Gauge-Boson/</loc>
     <lastmod>2025-11-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://quarkquartet.github.io/zh/tag/Vector-Gauge-Boson/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://quarkquartet.github.io/en/tag/Vector-Gauge-Boson/"
+                />
   </url><url>
     <loc>https://quarkquartet.github.io/en/tag/Visible-Decay/</loc>
     <lastmod>2025-11-05T00:00:00+00:00</lastmod>

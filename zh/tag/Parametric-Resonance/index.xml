@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parametric Resonance | 夸克四重奏</title>
+    <link>https://quarkquartet.github.io/zh/tag/Parametric-Resonance/</link>
+      <atom:link href="https://quarkquartet.github.io/zh/tag/Parametric-Resonance/index.xml" rel="self" type="application/rss+xml" />
+    <description>Parametric Resonance</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 13 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://quarkquartet.github.io/media/icon_hu9fe4af0edb92d3e40e98501fc4baa281_1731920_512x512_fill_lanczos_center_3.png</url>
+      <title>Parametric Resonance</title>
+      <link>https://quarkquartet.github.io/zh/tag/Parametric-Resonance/</link>
+    </image>
+    
+    <item>
+      <title>Dark Matter and Baryon Asymmetry from Monopole-Axion Interactions</title>
+      <link>https://quarkquartet.github.io/zh/publication/Monopole-axion/</link>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://quarkquartet.github.io/zh/publication/Monopole-axion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
