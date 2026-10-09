@@ -1,0 +1,64 @@
+.career-experience {
+  clear: both;
+  margin-top: 2rem;
+}
+
+.career-experience-list {
+  list-style: none;
+  margin: 1.5rem 0 2rem;
+  padding: 0;
+}
+
+.career-experience-entry {
+  display: grid;
+  grid-template-columns: 10rem 1fr;
+}
+
+.career-experience-dates {
+  padding: 0.1rem 1.5rem 0 0;
+  color: var(--global-theme-color);
+  font-size: 0.9rem;
+}
+
+.career-experience-details {
+  position: relative;
+  border-left: 1px solid var(--global-divider-color);
+  padding: 0 0 1.75rem 1.75rem;
+}
+
+.career-experience-details::before {
+  content: "";
+  position: absolute;
+  top: 0.4rem;
+  left: -0.3rem;
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  background: var(--global-theme-color);
+}
+
+.career-experience-details h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.career-experience-details p {
+  margin: 0 0 0.4rem;
+}
+
+.career-experience-location {
+  font-size: 0.9rem;
+  color: var(--global-text-color-light);
+}
+
+@media (max-width: 575px) {
+  .career-experience-entry {
+    grid-template-columns: 1fr;
+  }
+
+  .career-experience-dates {
+    padding: 0 0 0.5rem 1.75rem;
+    border-left: 1px solid var(--global-divider-color);
+  }
+}

@@ -1,0 +1,52 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@use "sass:math";
+@use "sass:string";
+
+@use "variables" with (
+  $max-content-width: {{site.max_width | default: "930px"}}
+);
+
+@use "themes";
+@use "layout";
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+@use "tabs";
+@use "teachings";
+@use "typograms";
+
+:root {
+  --global-theme-color: #2457a7;
+  --global-hover-color: #2457a7;
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #82b5ff;
+  --global-hover-color: #82b5ff;
+  --global-hover-text-color: #1c1c1d;
+}
+
+:root,
+html[data-theme="dark"] {
+  --global-footer-bg-color: var(--global-bg-color);
+  --global-footer-text-color: var(--global-text-color);
+  --global-footer-link-color: var(--global-theme-color);
+}
+
+.profile img.rounded-circle {
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.profile .more-info p {
+  display: block;
+}

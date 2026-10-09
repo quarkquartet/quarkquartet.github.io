@@ -1,0 +1,16 @@
+- position: Postdoctoral Researcher
+  institution: University of Florida
+  department: Institute for Fundamental Theory
+  department_url: https://ift.phys.ufl.edu/
+  location: Gainesville, Florida, USA
+  start_date: "2026-10"
+  end_date:
+  current: true
+
+- position: Postdoctoral Researcher
+  institution: Fermi National Accelerator Laboratory
+  department: Theory Division
+  department_url: https://theory.fnal.gov/people/
+  location: Batavia, Illinois, USA
+  start_date: "2023-10"
+  end_date: "2026-09"

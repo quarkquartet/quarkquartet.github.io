@@ -1,0 +1,33 @@
+<section class="career-experience" aria-labelledby="{{ include.id }}-title">
+  <h2 id="{{ include.id }}-title">{{ include.title }}</h2>
+  <ol class="career-experience-list">
+    {% for entry in include.entries %}
+      <li class="career-experience-entry">
+        <div class="career-experience-dates">
+          {% if entry.start_date %}
+            <time datetime="{{ entry.start_date }}">{{ entry.start_date | append: '-01' | date: '%b %Y' }}</time>
+          {% endif %}
+          {% if entry.start_date and entry.end_date or entry.start_date and entry.current %}–{% endif %}
+          {% if entry.current %}
+            Present
+          {% elsif entry.end_date %}
+            <time datetime="{{ entry.end_date }}">{{ entry.end_date | append: '-01' | date: '%b %Y' }}</time>
+          {% endif %}
+        </div>
+        <div class="career-experience-details">
+          <h3>{{ entry.degree | default: entry.position }}</h3>
+          <p>
+            {{ entry.institution -}}
+            <br>
+            {% if entry.department_url %}
+              <a href="{{ entry.department_url }}">{{ entry.department }}</a>
+            {% else %}
+              {{ entry.department }}
+            {% endif %}
+          </p>
+          <p class="career-experience-location">{{ entry.location }}</p>
+        </div>
+      </li>
+    {% endfor %}
+  </ol>
+</section>
