@@ -1,0 +1,6 @@
+<h2 id="related-publications">Related publications</h2>
+<div class="publications">
+  {% bibliography --query @*[journal && projects~={{ page.research_id }}] --group_by none %}
+</div>
+
+<p><a href="{{ '/research/' | relative_url }}">← All research directions</a></p>

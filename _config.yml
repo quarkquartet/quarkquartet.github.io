@@ -11,11 +11,11 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Isaac R. Wang, postdoctoral researcher in theoretical particle physics and cosmology at the Institute for Fundamental Theory, University of Florida.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with al-folio theme.
 keywords: Isaac Wang, particle physics, cosmology, Institute for Fundamental Theory, University of Florida # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
+icon: cosmic-vortex-favicon.png # favicon image in /assets/img/
+apple_touch_icon: cosmic-vortex-apple-touch-icon.png # 180x180 PNG for iOS home-screen bookmarks
 
 url: https://quarkquartet.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -245,7 +245,15 @@ exclude:
   - _pages/repositories.md
   - _pages/teaching.md
   - _posts/
-  - _projects/
+  - _projects/1_project.md
+  - _projects/2_project.md
+  - _projects/3_project.md
+  - _projects/4_project.md
+  - _projects/5_project.md
+  - _projects/6_project.md
+  - _projects/7_project.md
+  - _projects/8_project.md
+  - _projects/9_project.md
   - _teachings/
   - purgecss.config.js
   - README.md
@@ -358,8 +366,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Wang]
+  first_name: [Isaac R., Isaac, I. R.]
 
   style: apa
   locale: en
@@ -367,19 +375,21 @@ scholar:
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
-  # Note: if you have latex math in your bibtex, the latex filter
-  # preprocessing may conflict with MathJAX if the latter is enabled.
-  # See https://github.com/alshedivat/al-folio/issues/357.
-  bibtex_filters: [latex, smallcaps, superscript]
+  # Preserve mathematical expressions for MathJax while decoding LaTeX prose.
+  bibtex_filters: [MathLatex, smallcaps, superscript]
 
   replace_strings: true
   join_strings: true
 
-  details_dir: bibliography
-  details_link: Details
+  details_dir: publications
+  details_layout: publication.html
+  details_permalink: /:details_dir/:arxiv/
+  details_link: false
 
-  query: "@*"
-  group_by: year
+  query: "@*[journal]"
+  sort_by: eprint
+  order: descending
+  group_by: arxiv_year
   group_order: descending
 
 # Display different badges withs stats for your publications
@@ -399,13 +409,13 @@ filtered_bibtex_keywords:
     altmetric,
     annotation,
     arxiv,
+    arxiv_year,
     award,
     award_name,
     bibtex_show,
     blog,
     code,
     dimensions,
-    eprint,
     google_scholar_id,
     hal,
     html,
@@ -414,6 +424,7 @@ filtered_bibtex_keywords:
     pmid,
     poster,
     preview,
+    projects,
     selected,
     slides,
     supp,

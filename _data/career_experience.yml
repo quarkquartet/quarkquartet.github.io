@@ -1,5 +1,6 @@
 - position: Postdoctoral Researcher
   institution: University of Florida
+  institution_icon: /assets/img/institutions/uf.jpg
   department: Institute for Fundamental Theory
   department_url: https://ift.phys.ufl.edu/
   location: Gainesville, Florida, USA
@@ -9,6 +10,7 @@
 
 - position: Postdoctoral Researcher
   institution: Fermi National Accelerator Laboratory
+  institution_icon: /assets/img/institutions/fermilab.svg
   department: Theory Division
   department_url: https://theory.fnal.gov/people/
   location: Batavia, Illinois, USA

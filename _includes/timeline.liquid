@@ -14,18 +14,34 @@
             <time datetime="{{ entry.end_date }}">{{ entry.end_date | append: '-01' | date: '%b %Y' }}</time>
           {% endif %}
         </div>
-        <div class="career-experience-details">
-          <h3>{{ entry.degree | default: entry.position }}</h3>
-          <p>
-            {{ entry.institution -}}
-            <br>
-            {% if entry.department_url %}
-              <a href="{{ entry.department_url }}">{{ entry.department }}</a>
-            {% else %}
-              {{ entry.department }}
+        <div class="career-experience-details{% if entry.institution_icon %} career-experience-details-with-icon{% endif %}">
+          {% if entry.institution_icon %}
+            <img
+              class="career-experience-icon"
+              src="{{ entry.institution_icon | relative_url }}"
+              alt=""
+              width="48"
+              height="48"
+              loading="lazy"
+              decoding="async"
+            >
+          {% endif %}
+          <div>
+            <h3>{{ entry.degree | default: entry.position }}</h3>
+            <p>
+              {{ entry.institution -}}
+              <br>
+              {% if entry.department_url %}
+                <a href="{{ entry.department_url }}">{{ entry.department }}</a>
+              {% else %}
+                {{ entry.department }}
+              {% endif %}
+            </p>
+            <p class="career-experience-location">{{ entry.location }}</p>
+            {% if entry.description and entry.description != empty %}
+              <div class="career-experience-description">{{ entry.description | markdownify }}</div>
             {% endif %}
-          </p>
-          <p class="career-experience-location">{{ entry.location }}</p>
+          </div>
         </div>
       </li>
     {% endfor %}

@@ -2,6 +2,7 @@
 layout: about
 title: About
 permalink: /
+banner: /assets/img/banners/pink-blue-nebula.png
 subtitle: >
   Postdoctoral Researcher<br>
   <a href="https://ift.phys.ufl.edu/">Institute for Fundamental Theory</a><br>
@@ -16,7 +17,7 @@ profile:
     <p>University of Florida</p>
     <p>Gainesville, FL 32611-8440</p>
 
-selected_papers: false
+selected_papers: true
 social: true
 
 announcements:
@@ -40,7 +41,7 @@ Outside research, I enjoy music and sports.
 As an undergraduate, I served as associate concertmaster and principal second violin in University’s symphony orchestra.
 While at Fermilab, I swam with the Masters team at [FMC Natatorium](https://www.fmcnatatorium.org/).
 
-## Research interests
+## Research Interests
 
 - Baryogenesis
 - Electroweak and Higgs physics

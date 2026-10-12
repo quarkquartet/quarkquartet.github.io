@@ -1,0 +1,55 @@
+---
+layout: page
+math: true
+_styles: |
+  .publication-page .publication-meta { color: var(--global-text-color-light); }
+  .publication-page .publication-links { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.25rem 0; }
+  .publication-page .publication-links a { border: 1px solid var(--global-theme-color); border-radius: 0.25rem; padding: 0.35rem 0.75rem; font-size: 0.875rem; }
+  .publication-page .publication-image { display: block; width: 100%; max-height: 300px; object-fit: contain; margin: 2rem auto; }
+  .publication-page .research-links { display: flex; flex-wrap: wrap; gap: 0.75rem; padding: 0; list-style: none; }
+  .publication-page details { margin: 2rem 0; }
+  .publication-page summary { cursor: pointer; }
+  .publication-page pre { margin-top: 1rem; padding: 1rem; overflow-x: auto; }
+---
+
+{% assign entry = page.entry %}
+<div class="publication-page">
+  <p class="publication-authors">
+    {% for author in entry.author_array %} {{ author.first }} {{ author.last }}{% unless forloop.last %}, {% endunless %} {% endfor %}
+  </p>
+  <p class="publication-meta">
+    <em>{{ entry.journal }}</em>{% if entry.volume %}&nbsp;<strong>{{ entry.volume }}</strong>{% endif %}{% if entry.pages %}, {{ entry.pages }}{%
+    endif %} ({{ entry.year }})
+  </p>
+  {% if entry.note %}
+  <p class="publication-meta">{{ entry.note }}</p>
+  {% endif %}
+
+  <div class="publication-links">
+    {% if entry.arxiv %}<a class="btn btn-sm z-depth-0" href="https://arxiv.org/abs/{{ entry.arxiv }}">arXiv</a>{% endif %} {% if entry.pdf %}<a
+      class="btn btn-sm z-depth-0"
+      href="{{ entry.pdf }}"
+      >PDF</a
+    >{% endif %} {% if entry.doi %}<a class="btn btn-sm z-depth-0" href="https://doi.org/{{ entry.doi }}">DOI</a>{% endif %}
+  </div>
+
+  {% if entry.preview %} {% assign image_path = entry.preview | prepend: '/assets/img/publication_preview/' %} {% include figure.liquid
+  path=image_path class="publication-image" alt=entry.title loading="eager" avoid_scaling=true %} {% endif %} {% if entry.abstract %}
+  <h2>Abstract</h2>
+  <p>{{ entry.abstract }}</p>
+  {% endif %} {% if entry.projects %}
+  <h2>Related research</h2>
+  <ul class="research-links">
+    {% assign memberships = entry.projects | remove: ' ' | split: ',' %} {% assign research_projects = site.projects | sort: 'importance' %} {% for
+    project in research_projects %} {% if memberships contains project.research_id %}
+    <li><a href="{{ project.url | relative_url }}">{{ project.short_title | default: project.title }}</a></li>
+    {% endif %} {% endfor %}
+  </ul>
+  {% endif %} {% if entry.bibtex_show %}
+  <details>
+    <summary>Citation (BibTeX)</summary>
+    <pre>{{ entry.bibtex | hideCustomBibtex | escape }}</pre>
+  </details>
+  {% endif %}
+  <p><a href="{{ '/publications/' | relative_url }}">← All publications</a></p>
+</div>

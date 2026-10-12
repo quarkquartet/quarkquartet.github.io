@@ -2,6 +2,13 @@
 
 **This file is the authoritative entry point for coding agents working in this repo.** Read it before making any change. It is intentionally short and tool-neutral; it links to the one place each longer-form fact lives.
 
+## Workspace folders
+
+- `personal-web/` is the active personal website, built with Jekyll and al-folio. Make website changes here. Source lives on `master`; GitHub Actions builds and publishes `gh-pages` at `https://quarkquartet.github.io/`.
+- `../personal-web-old/` contains the previous Hugo/Wowchemy website. Use it as a reference for existing content, assets, and homepage sections during gradual migration. Preserve it while copying requested content into `personal-web/`.
+
+For this personal site, follow its `_config.yml`: `baseurl` is empty, and `./bin/serve` previews the site at `http://127.0.0.1:4000/`. Site-level includes and style overrides are supported as described in [local overrides](docs/ARCHITECTURE.md#local-overrides-your-site-vs-this-repo). Apply the template guidance below in this personal-site context.
+
 `al-folio` v1.x is a **thin Jekyll starter, not a theme**. This repo owns starter wiring, example content, docs, and cross-plugin tests. All runtime — layouts, includes, Sass, Liquid tags, filters, feature JS — lives in versioned gems published under [`al-org-dev`](https://github.com/al-org-dev).
 
 ## Route your change

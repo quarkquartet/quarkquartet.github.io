@@ -1,0 +1,15 @@
+{% capture entryyear %}{{ " " }}{{ entry.arxiv_year }}{% endcapture %}
+{% if entry.projects %}
+  {% assign project_ids = entry.projects | split: ',' %}
+  <div class="publication-projects">
+    <span>Research:</span>
+    {% for project_id in project_ids %}
+      {% assign research_id = project_id | strip %}
+      {% assign research_project = site.projects | where: 'research_id', research_id | first %}
+      <a href="{{ research_project.url | relative_url }}">{{ research_project.short_title }}</a>
+      {%- unless forloop.last -%}
+        <span>·</span>
+      {%- endunless %}
+    {% endfor %}
+  </div>
+{% endif %}

@@ -1,13 +1,27 @@
 - degree: Ph.D. in theoretical particle physics
   institution: Rutgers University
+  institution_icon: /assets/img/institutions/rutgers.svg
   department: New High Energy Theory Center
-  location: New Jersey, USA
+  location: New Brunswick, New Jersey, USA
   start_date: "2017-09"
   end_date: "2023-09"
+  description: |
+    **Advisors:** David Shih and Keisuke Harigaya
+
+    **Thesis:** Electroweak (-like) phase transition: baryogenesis, strong CP, and light particles
+
+    **Teaching experience:**
+    - Teaching assistant, Introduction to Cosmology, 444
+    - Teaching assistant, Analytical Physics, 123–124
 
 - degree: B.S. in physics
   institution: Fudan University
+  institution_icon: /assets/img/institutions/fudan.svg
   department: Department of Physics
   location: Shanghai, China
   start_date: "2013-09"
   end_date: "2017-06"
+  description: |
+    **Advisors:** Xu-Guang Huang and Huan Zhong Huang
+
+    **Thesis:** Microcausality and CPT violation in chiral quantum electrodynamics
